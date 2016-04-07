@@ -1,0 +1,68 @@
+{
+ "name": "1997",
+ "sales":39.6,
+ "children": [
+  {
+   "name": "Spice",
+   "artist":"Spice Girls",
+   "genre":"pop",
+   "sales": 5.3,
+   "description":"This is a test..."  
+  },
+  {
+   "name": "Falling Into You",
+   "artist":"Celine Dion",
+   "genre":"pop",
+   "sales": 6,
+   "description":"Want to know the biggest selling albums of the last 20 years? Look in your mother's CD collection. Seriously, she buys like two albums per decade, when she's looking for shopping for new tupperware at Target."
+  },
+   {
+   "name": "The Score",
+   "artist":"Fugees",
+   "genre":"hip hop",
+   "sales": 4.5
+  },
+   {
+   "name": "Tragic Kingdom",
+   "artist":"No Doubt",
+   "genre":"rock",
+   "sales": 4.4
+  },
+   {
+   "name": "Daydream",
+   "artist":"Mariah Carey",
+   "genre":"pop",
+   "sales": 3
+  },
+   {
+   "name": "All Eyez On Me",
+   "artist":"2Pac",
+   "genre":"hip hop",
+   "sales": 3
+  },
+   {
+   "name": "Load",
+   "artist":"Metallica",
+   "genre":"rock",
+   "sales": 3
+  },
+   {
+   "name": "Secrets",
+   "artist":"Toni Braxton",
+   "genre":"pop",
+   "sales": 2.9
+  },
+   {
+   "name": "The Woman In Me",
+   "artist":"Shania Twain",
+   "genre":"country",
+   "sales": 2.8
+  },
+   {
+   "name": "(What's The Story) Morning Glory?",
+   "artist":"Oasis",
+   "genre":"rock",
+   "sales": 2.6
+  }
+ ]
+}

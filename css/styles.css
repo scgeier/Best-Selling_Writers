@@ -1,0 +1,33 @@
+body{
+  position:relative;
+}
+circle {
+  fill: rgb(195, 195, 162);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  /*fill: #ff7f0e;*/
+  fill-opacity: 1;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+
+.description{
+  font-size:1.5em;
+  font-weight:200;
+  padding-right:2%;
+}
+
+.description h3 {
+  font-family:Arial;
+}
+
+.description span {
+  font-weight:bold;
+}
