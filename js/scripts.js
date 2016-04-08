@@ -5,36 +5,47 @@ var pack = d3.layout.pack()
     .size([diameter - 100, diameter - 100])
     .value(function(d) { return d.sales; });//make the area of each circle a function of the data//
 
-
+//Make the canvas
 var svg = d3.select("#chart").append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
   .append("g")
-    .attr("transform", "translate(50,20)");//move the graphic 100 to the left and 20 down within the canvas//
+    .attr("transform", "translate(50,20)");//move the chart 100 to the left and 20 down within the canvas//
 
-      
+//Make a div for the album info to appear on mouseovers    
 var tooltip = d3.select("body").append("div")
                 .attr("class", "col-xs-12 col-md-6")
                 .style("position", "absolute")
                 .style("opacity", 0);
 
-              
-d3.json("../data/albums.json", function(error, root) {
+//Initialize the URL for the first JSON file on load
+var currentUrl = "../data/albums.json";
+
+//Build the chart
+function update() {
+  
+d3.json(currentUrl, function(error, root) {
   if (error) throw error;
 
-      
   var node = svg.datum(root).selectAll(".node")
       .data(pack.nodes)
-    .enter().append("g")
-      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })//if the JSON object has children, give it the "node" class; otherwise, make it "leaf node"//
-      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+     
+node.exit().remove()
 
+node.enter().append("g")
+      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })//if the JSON object has children, give it the "node" class; otherwise, make it "leaf node"//
+      .transition()
+      .duration(2000)
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+  
+  
 //Add a mouseover to show each of the album sales figures//
-  node.append("title")
+node.append("title")
       .text(function(d) { return d.sales + " million"; });
+      
 
 //Create the circles using the JSON data//
-  node.append("circle")
+node.append("circle")
       .attr("r", function(d) { return d.r; })
       .style("fill", function(d){
         var color;
@@ -49,7 +60,7 @@ d3.json("../data/albums.json", function(error, root) {
           }
           return color;
       })
-    
+
     //Make description of each album appear in side div when user hovers over a bubble//
       .on("mouseenter", function(d){
       
@@ -69,18 +80,26 @@ d3.json("../data/albums.json", function(error, root) {
       .on("mouseleave", function(d){
          tooltip.transition().style("opacity", 0)
       })
-      
-      
+  
+  
 //Filter the data and append text to only the leaf nodes (i.e. the JSON objects without children)//
-  node.filter(function(d) { return !d.children; }).append("text")
+node.filter(function(d) { return !d.children; }).append("text")
       .attr("dy", ".2em")
       .style("text-anchor", "middle")
       .style("font-size", ".9em")
-      .text(function(d) { return d.name.substring(0, d.r / 3); });
-  
-  
-    
+      .text(function(d) { return d.name.substring(0, d.r / 3); })
+
 });
 
+//Make a click event to enter new JSON data
+d3.select("#option")
+      .on("click", function(e){
+        currentUrl = "../data/1997.json";
+        update();
+        })
+      
+};
+
+update();
 
 d3.select(self.frameElement).style("height", diameter + "px");
