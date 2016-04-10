@@ -1,0 +1,694 @@
+{
+ "last": "Best Selling Fiction Authors",
+ "total":39.6,
+ "children": [
+  {
+   "first":"Agatha",
+   "last": "Christie",
+   "genre":"Mystery",
+   "sales": 4000,
+   "languange": "English",
+   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+  },
+    {
+   "first":"Barbara",
+   "last": "Cartland",
+   "genre":"Romance",
+   "sales": 1000,
+   "languange": "English",
+   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+  },
+    {
+   "first":"Danielle",
+   "last": "Steele",
+   "genre":"Romance",
+   "sales": 800,
+   "languange": "English",
+   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+  },
+  {
+   "first":"Harold",
+   "last": "Robbins",
+   "genre":"Literature",
+   "sales": 750,
+   "languange": "English",
+   "description":"testing.... Seriously, she buys like two albums per decade, when she's looking for shopping for new tupperware at Target."
+  },
+   {
+   "first":"Georges",
+   "last": "Simenon",
+   "genre":"Mystery",
+   "sales": 700,
+   "languange": "French",
+   "description":"testing...."
+  },
+   {
+   "first":"Sidney",
+   "last": "Sheldon",
+   "genre":"Thriller",
+   "sales": 600,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first":"Enid",
+   "last": "Blyton",
+   "genre":"Children/Young Adult",
+   "sales": 600,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first":"Dr.",
+   "last": "Seuss",
+   "genre":"Children/Young Adult",
+   "sales": 500,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+    "first":"Gilbert",
+   "last": "Patten",
+   "genre":"Children/Young Adult",
+   "sales": 500,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+    "first":"J.K.",
+   "last": "Rowling",
+   "genre":"Children/Young Adult",
+   "sales": 450,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first":"Leo",
+   "last": "Tolstoy",
+   "genre":"Literature",
+   "sales": 413,
+   "languange": "Russian",
+   "description":"testing...."
+  },
+     {
+   "first":"Corin",
+   "last": "Tellado",
+   "genre":"Romance",
+   "sales": 400,
+   "languange": "Spanish",
+   "description":"testing...."
+  },
+  {
+   "first": "Jackie",
+   "last": "Collins",
+   "genre":"Romance",
+   "sales": 400,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first": "Horatio",
+   "last": "Alger Jr.",
+   "genre":"Children/Young Adult",
+   "sales": 400,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first": "R.L.",
+   "last": "Stine",
+   "genre":"Children/Young Adult",
+   "sales": 400,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Dean",
+   "last": "Koontz",
+   "genre":"Horror",
+   "sales": 400,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Nora",
+   "last": "Roberts",
+   "genre":"Romance",
+   "sales": 400,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first": "Alexander",
+   "last": "Pushkin",
+   "genre":"Literature",
+   "sales": 357,
+   "languange": "Russian",
+   "description":"testing...."
+  },
+    {
+   "first": "Steven",
+   "last": "King",
+   "genre":"Horror",
+   "sales": 350,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first": "Louis",
+   "last": "L'Amour",
+   "genre":"Western",
+   "sales": 330,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Erle Stanley",
+   "last": "Gardner",
+   "genre":"Mystery",
+   "sales": 325,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Jin",
+   "last": "Young",
+   "genre":"Thriller",
+   "sales": 300,
+   "languange": "Chinese",
+   "description":"testing...."
+  },
+  {
+   "first": "Jiro",
+   "last": "Akagawa",
+   "genre":"Mystery",
+   "sales": 300,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+  {
+   "first": "Janet",
+   "last": "Dailey",
+   "genre":"Romance",
+   "sales": 300,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Edgar",
+   "last": "Wallace",
+   "genre":"Mystery",
+   "sales": 300,
+   "languange": "English",
+   "description":"testing...."
+  },
+ {
+   "first": "Robert",
+   "last": "Ludlum",
+   "genre":"Thriller",
+   "sales": 290,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "James",
+   "last": "Patterson",
+   "genre":"Thriller",
+   "sales": 275,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Frederic",
+   "last": "Dard",
+   "genre":"Mystery",
+   "sales": 270,
+   "languange": "French",
+   "description":"testing...."
+  },
+  {
+   "first": "Jeffrey",
+   "last": "Archer",
+   "genre":"Thriller",
+   "sales": 270,
+   "languange": "English",
+   "description":"testing...."
+  },
+ {
+   "first": "Stan and Jan",
+   "last": "Berenstain",
+   "genre":"Children/Young Adult",
+   "sales": 260,
+   "languange": "English",
+   "description":"testing...."
+  },
+ {
+  "first": "John",
+   "last": "Grisham",
+   "genre":"Thriller",
+   "sales": 250,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Zane",
+   "last": "Grey",
+   "genre":"Western",
+   "sales": 250,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Irving",
+   "last": "Wallace",
+   "genre":"Thriller",
+   "sales": 250,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "J.R.R.",
+   "last": "Tolkien",
+   "genre":"Literature",
+   "sales": 250,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Karl",
+   "last": "May",
+   "genre":"Western",
+   "sales": 200,
+   "languange": "German",
+   "description":"testing...."
+  },
+   {
+   "first": "Mickey",
+   "last": "Spillane",
+   "genre":"Mystery",
+   "sales": 200,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "C.S.",
+   "last": "Lewis",
+   "genre":"Literature",
+   "sales": 200,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Kyotaro",
+   "last": "Nishimura",
+   "genre":"Mystery",
+   "sales": 200,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+   {
+   "first": "Dan",
+   "last": "Brown",
+   "genre":"Thriller",
+   "sales": 200,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Ann M.",
+   "last": "Martin",
+   "genre":"Children/Young Adult",
+   "sales": 180,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Ryotaro",
+   "last": "Shiba",
+   "genre":"Literature",
+   "sales": 180,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+   {
+   "first": "Arthur",
+   "last": "Hailey",
+   "genre":"Thriller",
+   "sales": 170,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Gerard",
+   "last": "De Villiers",
+   "genre":"Mystery",
+   "sales": 150,
+   "languange": "French",
+   "description":"testing...."
+  },
+   {
+   "first": "Beatrix",
+   "last": "Potter",
+   "genre":"Children/Young Adult",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Michael",
+   "last": "Chrichton",
+   "genre":"Thriller",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Richard",
+   "last": "Scarry",
+   "genre":"Children/Young Adult",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Clive",
+   "last": "Clussler",
+   "genre":"Thriller",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Alistair",
+   "last": "MacLean",
+   "genre":"Thriller",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Ken",
+   "last": "Follett",
+   "genre":"Thriller",
+   "sales": 150,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "Astid",
+   "last": "Lindgren",
+   "genre":"Children/Young Adult",
+   "sales": 145,
+   "languange": "Swedish",
+   "description":"testing...."
+  },
+   {
+   "first": "Debbie",
+   "last": "Macomber",
+   "genre":"Romance",
+   "sales": 140,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Paulo",
+   "last": "Coelho",
+   "genre":"Literature",
+   "sales": 140,
+   "languange": "Portuguese",
+   "description":"testing...."
+  },
+     {
+   "first": "E.L.",
+   "last": "James",
+   "genre":"Romance",
+   "sales": 125,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Eliji",
+   "last": "Yoshikawa",
+   "genre":"Literature",
+   "sales": 140,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+     {
+   "first": "Catherine",
+   "last": "Cookson",
+   "genre":"Romance",
+   "sales": 120,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Debbie",
+   "last": "Macomber",
+   "genre":"Romance",
+   "sales": 140,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Stephanie",
+   "last": "Meyer",
+   "genre":"Children/Young Adult",
+   "sales": 116,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Norman",
+   "last": "Bridwell",
+   "genre":"Children/Young Adult",
+   "sales": 110,
+   "languange": "English",
+   "description":"testing...."
+  },
+   {
+   "first": "David",
+   "last": "Baldacci",
+   "genre":"Thriller",
+   "sales": 110,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Roald",
+   "last": "Dahl",
+   "genre":"Children/Young Adult",
+   "sales": 200,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Ed",
+   "last": "McBain",
+   "genre":"Mystery",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "V.C.",
+   "last": "Andrews",
+   "genre":"Horror",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+     {
+   "first": "Roger",
+   "last": "Hargreaves",
+   "genre":"Children/Young Adult",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+       {
+   "first": "Anne",
+   "last": "Rice",
+   "genre":"Horror",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+    {
+   "first": "Robin",
+   "last": "Cook",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Wilber",
+   "last": "Smith",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Erskine",
+   "last": "Caldwell",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+ {
+   "first": "Judith",
+   "last": "Krantz",
+   "genre":"Romance",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Eleanor",
+   "last": "Hibbert",
+   "genre":"Romance",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Lewis",
+   "last": "Carroll",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Denise",
+   "last": "Robins",
+   "genre":"Romance",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Cao",
+   "last": "Xueqin",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "Chinese",
+   "description":"testing...."
+  },
+  {
+   "first": "Ian",
+   "last": "Fleming",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Hermann",
+   "last": "Hesse",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Rex",
+   "last": "Stout",
+   "genre":"Mystery",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Sergeanne",
+   "last": "Golon",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "French",
+   "description":"testing...."
+  },
+  {
+   "first": "Frank G.",
+   "last": "Slaughter",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Edgar Rice",
+   "last": "Burroughs",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "John",
+   "last": "Creasey",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "James",
+   "last": "Michener",
+   "genre":"Literature",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Yasuo",
+   "last": "Uchida",
+   "genre":"Mystery",
+   "sales": 100,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+  {
+   "first": "Seiichi",
+   "last": "Morimura",
+   "genre":"Mystery",
+   "sales": 100,
+   "languange": "Japanese",
+   "description":"testing...."
+  },
+  {
+   "first": "Mary Higgins",
+   "last": "Clark",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Penny",
+   "last": "Jordan",
+   "genre":"Romance",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Patricia",
+   "last": "Cornwell",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  },
+  {
+   "first": "Tom",
+   "last": "Clancy",
+   "genre":"Thriller",
+   "sales": 100,
+   "languange": "English",
+   "description":"testing...."
+  }
+ ]
+}

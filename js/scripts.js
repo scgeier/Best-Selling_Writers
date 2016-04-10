@@ -2,8 +2,11 @@ var diameter = 760,
     format = d3.format(",d");
 
 var pack = d3.layout.pack()
-    .size([diameter - 100, diameter - 100])
-    .value(function(d) { return d.sales; });//make the area of each circle a function of the data//
+    .size([diameter - 50, diameter - 50])
+    .value(function(d) { return d.sales; })//make the area of each circle a function of the data//
+    .sort(function comparator(a, b) {
+          return -(a.value - b.value);
+    });
 
 //Make the canvas
 var svg = d3.select("#chart").append("svg")
@@ -19,7 +22,7 @@ var tooltip = d3.select("body").append("div")
                 .style("opacity", 0);
 
 //Initialize the URL for the first JSON file on load
-var currentUrl = "../data/albums.json";
+var currentUrl = "../data/authors.json";
 
 //Build the chart
 function update() {
@@ -49,14 +52,20 @@ node.append("circle")
       .attr("r", function(d) { return d.r; })
       .style("fill", function(d){
         var color;
-          if (d.genre == "pop") {
-            color = "#fd8d3c";
-          }else if(d.genre == "rock"){
-            color = "#e6550d";
-          }else if(d.genre == "hip hop"){
+          if (d.genre == "Romance") {
+            color = "#e7969c";
+          }else if(d.genre == "Mystery"){
+            color = "#bd9e39";
+          }else if(d.genre == "Children/Young Adult"){
             color = "#fdae6b";
-          }else if (d.genre == "country") {
-            color = "#fdd0a2";
+          }else if (d.genre == "Thriller") {
+            color = "#e7ba52";
+          } else if (d.genre == "Horror") {
+            color = "#8ca252";
+          }else if (d.genre == "Western") {
+            color = "#e7cb94";
+          }else if (d.genre == "Literature") {
+            color = "#cedb9c";
           }
           return color;
       })
@@ -70,8 +79,8 @@ node.append("circle")
           .style("bottom", "50%")
   
           
-          tooltip.html("<h3><span>" + d.name + "</span>" + " by " + d.artist + "</h3>"
-                      + d.sales + " million copies</br></br>"
+          tooltip.html("<h3><span>" + d.first + " " + d.last + "</span></h3>"
+                      + d.sales + "</br></br>"
                       + d.description)
                 .attr("class", "description")
       })
@@ -87,7 +96,7 @@ node.filter(function(d) { return !d.children; }).append("text")
       .attr("dy", ".2em")
       .style("text-anchor", "middle")
       .style("font-size", ".9em")
-      .text(function(d) { return d.name.substring(0, d.r / 3); })
+      .text(function(d) { return d.last.substring(0, d.r / 4); })
 
 });
 
