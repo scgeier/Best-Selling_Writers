@@ -1,6 +1,11 @@
 body{
   position:relative;
 }
+
+#chart{
+  padding-right:20px;
+}
+
 circle {
   fill: rgb(195, 195, 162);
   fill-opacity: .25;
@@ -19,12 +24,18 @@ text {
 }
 
 .content-text {
-  font-size:1.2em;
+  font-size:1em;
+}
+
+img {
+  width:120px;
+  height:150px;
+  float:left;
+  margin-right:10px;
 }
 
 .description{
-  font-size:1.5em;
-  font-weight:200;
+  font-weight:300;
   padding-right:2%;
 }
 
@@ -34,4 +45,12 @@ text {
 
 .description span {
   font-weight:bold;
+}
+
+#legend{
+  padding-left:6%;
+}
+
+#legend circle {
+  fill-opacity: 1;
 }

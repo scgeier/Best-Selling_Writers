@@ -3,12 +3,24 @@
  "total":39.6,
  "children": [
   {
+   "first":"William",
+   "last": "Shakespeare",
+   "genre":"Literature",
+   "sales": 4100,
+   "languange": "English",
+   "photo":"../img/shakespeare.jpg",
+   "description":"The Bard of Avon: the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in the number of books sold. Some claim that Shakespeare was really Sir Francis Bacon, or the Earl of Oxford. I guess some people just find it hard to believe that one man -- the son of a glove maker -- could possess such jaw-dropping genius. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
+   "books":"Hamlet, Romeo and Juliet, etc., etc."
+  },
+  {
    "first":"Agatha",
    "last": "Christie",
    "genre":"Mystery",
    "sales": 4000,
    "languange": "English",
-   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+   "photo":"../img/christie.png",
+   "description":"Joan Baez once said of Bob Dylan (and I'm paraphrasing): He's not for everyone, but if you're interested, he goes way, way deep. The same could be said of Agatha Christie. Some people don't like mystery novels. But if you do, you like Agatha Christie. And you probably bought every paperback she wrote.",
+   "books":"Murder On The Orient Express, And Then There Were None"
   },
     {
    "first":"Barbara",
@@ -16,15 +28,19 @@
    "genre":"Romance",
    "sales": 1000,
    "languange": "English",
-   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+   "photo":"../img/cartland.jpg",
+   "description":"Dame Barbara Cartland was known as the Queen of Romance. She was also one of the most prolific authors in history; she wrote 723 novels, including 23 <i>in one year</i>. Cartland's stories were a throwback to Victorian romance, with virginal heroines and few, if any, sexually suggestive scenes.",
+   "books":"The Poor Governess, The Wicked Marquis"
   },
     {
    "first":"Danielle",
-   "last": "Steele",
+   "last": "Steel",
    "genre":"Romance",
    "sales": 800,
    "languange": "English",
-   "description":"'Jagged Little Pill' took the pent-up angst of a child actress, mixed it with a failed relationship with a former star of 'Full House,' and became one of the biggest one-album wonders in rock history."  
+   "photo":"../img/steel.jpg",
+   "description":"Danielle Steel is the best-selling living fiction writer in the world. Her novels follow the formula (or did they invent it?) that turns TV movies intod gold: take a family of rich, beautiful people, and put them in a crisis.",
+   "books":"Wanderlust, Daddy, Heartbeat"
   },
   {
    "first":"Harold",
@@ -32,7 +48,9 @@
    "genre":"Literature",
    "sales": 750,
    "languange": "English",
-   "description":"testing.... Seriously, she buys like two albums per decade, when she's looking for shopping for new tupperware at Target."
+   "photo":"../img/robbins.jpg",
+   "description":"Robbins' novels -- much like Robbins himself -- played loose, moved fast and became epic in their sweep. He married three times, and once lived in the South American mountains with a group of Colombian bandits.",
+   "books":"The Carpetbaggers, Where Love Has Gone"
   },
    {
    "first":"Georges",
@@ -40,7 +58,9 @@
    "genre":"Mystery",
    "sales": 700,
    "languange": "French",
-   "description":"testing...."
+   "photo":"../img/simenon.jpg",
+   "description":"The most successful Belgian writer in history, Georges Simenon penned more than 200 novels. He is best known for the detective character, Jules Maigret. He once claimed he had slept with more than 10,000 women. The Belgian government honored him with a coin, but not for that.",
+   "books":"The Strangers in the House, The Strange Case of Peter the Lett"
   },
    {
    "first":"Sidney",
@@ -48,7 +68,9 @@
    "genre":"Thriller",
    "sales": 600,
    "languange": "English",
-   "description":"testing...."
+   "photo":"../img/sheldon.jpg",
+   "description":"Sidney Sheldon didn't start writing novels until he was in his 50s. But it wasn't like he spent his first few decades selling insurance. Sheldon won an Oscar for Best Original Screenplay, and created the TV shows 'I Dream of Jeannie' and 'Hart to Hart.' Then he sat down at a typewriter and moved 600 million books.",
+   "books":"The Other Side of Midnight, Master of the Game"
   },
    {
    "first":"Enid",
