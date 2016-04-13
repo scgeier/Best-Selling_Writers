@@ -132,8 +132,9 @@ node.append("circle")
            .style("opacity", 0)
          tooltip.transition()
           .delay(200)
+          .attr("class", "col-sm-12 col-md-6")
           .style("opacity", 1)
-          .style("left", "51%")
+          .style("left", "50%")
           .style("bottom", "40%")
   
           
@@ -146,7 +147,7 @@ node.append("circle")
             }
       })
       
-    //Remove album description on mouseleave//
+    //Remove author bio on mouseleave//
       .on("mouseleave", function(d){
             d3.select("#caveat")
            .style("opacity", 1)

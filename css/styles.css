@@ -23,6 +23,10 @@ text {
   font: 12px sans-serif;
 }
 
+#content{
+  padding-right:20px;
+}
+
 .content-text {
   font-size:1em;
 }

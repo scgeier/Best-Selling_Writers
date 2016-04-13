@@ -7,9 +7,9 @@
    "last": "Shakespeare",
    "genre":"Literature",
    "sales": 4100,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/shakespeare.jpg",
-   "description":"The Bard of Avon: the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in the number of books sold. Some claim that Shakespeare was really Sir Francis Bacon, or the Earl of Oxford. I guess some people just find it hard to believe that one man -- the son of a glove maker -- could possess such jaw-dropping genius. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
+   "description":"The Bard of Avon: the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in terms of sales and talent. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
    "books":"Hamlet, Romeo and Juliet, etc., etc."
   },
   {
@@ -17,7 +17,7 @@
    "last": "Christie",
    "genre":"Mystery",
    "sales": 4000,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/christie.png",
    "description":"Joan Baez once said of Bob Dylan (and I'm paraphrasing): He's not for everyone, but if you're interested, he goes way, way deep. The same could be said of Agatha Christie. Some people don't like mystery novels. But if you do, you like Agatha Christie. And you probably bought every paperback she wrote.",
    "books":"Murder On The Orient Express, And Then There Were None"
@@ -27,7 +27,7 @@
    "last": "Cartland",
    "genre":"Romance",
    "sales": 1000,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/cartland.jpg",
    "description":"Dame Barbara Cartland was known as the Queen of Romance. She was also one of the most prolific authors in history; she wrote 723 novels, including 23 <i>in one year</i>. Cartland's stories were a throwback to Victorian romance, with virginal heroines and few, if any, sexually suggestive scenes.",
    "books":"The Poor Governess, The Wicked Marquis"
@@ -37,9 +37,9 @@
    "last": "Steel",
    "genre":"Romance",
    "sales": 800,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/steel.jpg",
-   "description":"Danielle Steel is the best-selling living fiction writer in the world. Her novels follow the formula (or did they invent it?) that turns TV movies intod gold: take a family of rich, beautiful people, and put them in a crisis.",
+   "description":"Danielle Steel is the best-selling living fiction writer in the world. Her novels follow the formula (or did they invent it?) that turns TV movies into gold: take a family of rich, beautiful people, and put them in a crisis.",
    "books":"Wanderlust, Daddy, Heartbeat"
   },
   {
@@ -47,7 +47,7 @@
    "last": "Robbins",
    "genre":"Literature",
    "sales": 750,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/robbins.jpg",
    "description":"Robbins' novels -- much like Robbins himself -- played loose, moved fast and became epic in their sweep. He married three times, and once lived in the South American mountains with a group of Colombian bandits.",
    "books":"The Carpetbaggers, Where Love Has Gone"
@@ -57,7 +57,7 @@
    "last": "Simenon",
    "genre":"Mystery",
    "sales": 700,
-   "languange": "French",
+   "language": "French",
    "photo":"../img/simenon.jpg",
    "description":"The most successful Belgian writer in history, Georges Simenon penned more than 200 novels. He is best known for the detective character, Jules Maigret. He once claimed he had slept with more than 10,000 women. The Belgian government honored him with a coin, but not for that.",
    "books":"The Strangers in the House, The Strange Case of Peter the Lett"
@@ -67,7 +67,7 @@
    "last": "Sheldon",
    "genre":"Thriller",
    "sales": 600,
-   "languange": "English",
+   "language": "English",
    "photo":"../img/sheldon.jpg",
    "description":"Sidney Sheldon didn't start writing novels until he was in his 50s. But it wasn't like he spent his first few decades selling insurance. Sheldon won an Oscar for Best Original Screenplay, and created the TV shows 'I Dream of Jeannie' and 'Hart to Hart.' Then he sat down at a typewriter and moved 600 million books.",
    "books":"The Other Side of Midnight, Master of the Game"
@@ -77,511 +77,628 @@
    "last": "Blyton",
    "genre":"Children/Young Adult",
    "sales": 600,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/blyton.jpg",
+   "description":"Enid Blyton was one of the most successfull children's authors in history, as well as one of the most controversial. Critics aruged that her work was predictable at best, and racist at worst. She was also so prolific (she once wrote a 60,000-word book in five days), that some claimed she employed a group of ghostwriters.",
+   "books":"The Enchanted Wood, The Rockingdown Mystery, Noddy Goes to Toyland"
   },
     {
    "first":"Dr.",
    "last": "Seuss",
    "genre":"Children/Young Adult",
    "sales": 500,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/seuss.jpg",
+   "description":"Theodor Geisel (a/k/a Dr. Seuss -- which, by the way, rhymes with 'voice,' not 'deuce'), is one of the most beloved and original children's authors of all time. His work transcended the genre, becoming a fixture in the cultural consciousness. How many authors' canons include books read to five year olds (Green Eggs and Ham) and ones often given to those kids when they graduate from college (Oh, The Places You'll Go!)?",
+  "books":"The Cat in the Hat, Green Eggs and Ham, etc. etc."
   },
     {
     "first":"Gilbert",
    "last": "Patten",
    "genre":"Children/Young Adult",
    "sales": 500,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/patten.jpg",
+   "description":"Gilbert Patten was the king of the 'dime-store' paperback. He specialized in sports-related stories, under the pen name Burt Standish.",
+   "books":"The 'Frank Merriwell' series of novels"
   },
     {
     "first":"J.K.",
    "last": "Rowling",
    "genre":"Children/Young Adult",
    "sales": 450,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/rowling.jpg",
+   "description":"J.K. Rowling went from living on welfare to becoming the most successful living author in Great Britain. Hollywood executives often say the key to success in movies is telling a story that appeals to the'4 Q's': young, old, male, female. Rowling did that with <i>Harry Potter</i>. In the past 15 years, it has not been unusual to find parents reading <i>Harry Potter</i> books and then handing them to their children. And vice versa.",
+   "books":"the Harry Potter series"
   },
    {
    "first":"Leo",
    "last": "Tolstoy",
    "genre":"Literature",
    "sales": 413,
-   "languange": "Russian",
-   "description":"testing...."
+   "language": "Russian",
+   "photo":"../img/tolstoy.jpg",
+   "description":"Leo Tolstoy is one of the most critically acclaimed writers in history, and arguably the second-most acclaimed in this chart, after Shakespeare. His work is notoriously dense -- <i>War and Peace</i> has over 580 characters and 2000 pages -- but it is also immensely rewarding to those who accept its challenge.",
+   "books":"War and Peace, Anna Karenina"
   },
      {
    "first":"Corin",
    "last": "Tellado",
    "genre":"Romance",
    "sales": 400,
-   "languange": "Spanish",
-   "description":"testing...."
+   "language": "Spanish",
+   "photo":"../img/tellado.jpg",
+   "description":"Corin Tellado is the best-selling Spanish-language writer in history. Her romance novels stray from the formula for Western romance novels. Often set in the present, they use a direct style and often lack the eroticism of paperback bodice-rippers",
+   "books":"Tu Pesado Me Condena, Te Odio Por Ser de Otro"
   },
   {
    "first": "Jackie",
    "last": "Collins",
    "genre":"Romance",
    "sales": 400,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/collins.jpg",
+   "description":"Jackie Collins was the younger sister of actress Joan Collins. Her works became the paradigm of 1980s erotic pot-boilers, full of sex, money, glamour and intrigue.",
+   "books":"The Stud, Hollywood Wives"
   },
     {
    "first": "Horatio",
    "last": "Alger Jr.",
    "genre":"Children/Young Adult",
    "sales": 400,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/alger.jpg",
+   "description":"In the 19th century, Horatio Alger Jr. perfected a motif that became known as the 'Horatio Alger Myth' -- stories in which impoverished young boys achieve success through hard work, determination, and acts of honesty and courage.",
+   "books":"Ragged Dick, Frank's Campaign"
   },
     {
    "first": "R.L.",
    "last": "Stine",
    "genre":"Children/Young Adult",
    "sales": 400,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/stine.jpg",
+   "description":"Known as the 'Steven King of children's literature,' R.L. Stine began his career writing humor books under the name Jovial Bob Stine. He is the crazy counselor at the campfire, a testament to the fact that kids love a good scary story.",
+   "books":"Goosebumps, Fear Street"
   },
    {
    "first": "Dean",
    "last": "Koontz",
    "genre":"Horror",
    "sales": 400,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/koontz.jpg",
+   "description":"In the world of horror fiction, Dean Koontz is the Lou Gehrig to Steven King's Babe Ruth. He has written under at least 10 pseudonyms, several of which have graced the covers of million-selling novels. That's quite a feat, when you think about it.",
+   "books":"Watchers, Whispers, Odd Thomas"
   },
    {
    "first": "Nora",
    "last": "Roberts",
    "genre":"Romance",
    "sales": 400,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/roberts.jpg",
+   "description":"Nora Roberts was the first author inducted into the Romance Writers Hall of Fame (a room one imagines is overflowing with pastel paintings of shirtless men on horseback). Every book she has written since 1999 has reached number one on the <i>New York Times</i> bestseller list. In 1997, another romance writer in this chart, Janet Dailey, admitted to plagiarizing two of Roberts' novels.",
+   "books":"Montana Sky, Northern Lights, True Betrayals"
   },
     {
    "first": "Alexander",
    "last": "Pushkin",
    "genre":"Literature",
    "sales": 357,
-   "languange": "Russian",
-   "description":"testing...."
+   "language": "Russian",
+   "photo":"../img/pushkin.jpg",
+   "description":"First and foremost a poet, Alexander Pushkin wrote his most famous novel, <i>Eugene Onegin</i>, as an ongoing poem over the course of his life. In 1837, Pushkin caught his brother-in-law, Georges-Charles de Heeckeren d'Anthes, trying to seduce his wife. He challenged Anthes to a duel, and died after being shot in the stomach. He was 36.",
+   "books":"Eugene Onegin, Boris Godunuv"
   },
     {
    "first": "Steven",
    "last": "King",
    "genre":"Horror",
    "sales": 350,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/king.jpg",
+   "description":"Steven King is the undisputed champ of modern blockbuster horror. And he doesn't get enough credit for his range. Everyone knows he wrote <i>The Shining</i> and countless other books that became scary movies. But he also wrote the stories that became <i>Stand By Me, The Shawshank Redemption</i>, and<i> The Green Mile.</i>",
+   "books":"Carrie, The Shining, Misery"
   },
     {
    "first": "Louis",
    "last": "L'Amour",
    "genre":"Western",
    "sales": 330,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/lamour.jpg",
+   "description":"Louis L'Amour was to Westerns what Agatha Christie was to mystery -- the undisputed giant of his genre. While some critics may have called his work formulaic, there is no doubt the formula worked, and delighted millions of people who love a good story about gunfights on the frontier.",
+   "books":"Big Medicine, The Sixth Shotgun"
   },
   {
    "first": "Erle Stanley",
    "last": "Gardner",
    "genre":"Mystery",
    "sales": 325,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/gardner.jpg",   
+   "description":"Erle Stanley Gardner left law school after one month, but continued to study on his own and passed the bar exam in 1911. He later turned his legal knowledge into a series of hugely successfuly novels that became the TV show <i>Perry Mason</i>.",
+   "books":"the Perry Mason series"
   },
   {
    "first": "Jin",
-   "last": "Young",
+   "last": "Yong",
    "genre":"Thriller",
    "sales": 300,
-   "languange": "Chinese",
-   "description":"testing...."
+   "language": "Chinese",
+   "photo":"../img/yong.jpg",
+   "description":"Jin Yong is the best-selling Chinese writer alive, even though he has written 'only' 15 novels (this an admittedly large number, but not when compared to many of the other authors in this chart). Yong writes <i>wuxia</i>, a genre of Chinese fiction that blends martial arts, sorcery and chivalry.",
+   "books":"The Book and the Sword, The Legend of the Condor Heroes"
+
   },
   {
    "first": "Jiro",
    "last": "Akagawa",
    "genre":"Mystery",
    "sales": 300,
-   "languange": "Japanese",
-   "description":"testing...."
+   "language": "Japanese",
+   "photo":"../img/akagawa.jpg",
+   "description":"Jiro Akagawa's work ethic is astounding; he has written more than <i>560 novels</i> in less than 40 years. Akagawa is known for his humorous take on the mystery genre.",
+   "books":"The Calico Cat Holmes series"
   },
   {
    "first": "Janet",
    "last": "Dailey",
    "genre":"Romance",
    "sales": 300,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/dailey.jpg",
+   "description":"Janet Dailey began her career at the age of 30, after deciding that she could write a better romance novel than the ones she was reading. She went on to write over a hundred books and sell over 300 million copies. In 1997, Dailey admitted to plagiarizing two of Danielle Steel's novels. She blamed it on a psychological disorder and settled a lawsuit with Steel for an undisclosed amount.",
+   "books":"Touch the Wind, Foxfire Light"
   },
    {
    "first": "Edgar",
    "last": "Wallace",
    "genre":"Mystery",
    "sales": 300,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/wallace.jpg",
+   "description":"Edgar Wallace is the literary equivalent of a Vaudeville superstar -- someone who was wildly popular in his time, but little known today. This is a shame. The man wrote the screenplay for <i>King Kong</i>.",
+   "books":"The Green Archer, The Mind of Mr. J.G. Reeder"
   },
  {
    "first": "Robert",
    "last": "Ludlum",
    "genre":"Thriller",
    "sales": 290,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/ludlum.jpg",
+   "description":"Robert Ludlum is best known as the writer of the <i>Bourne</i> series of thrillers, the ones that the became blockbuster trilogy of Matt Damon movies. Ludlum died from burns suffered in a house fire in 2001. Some family members claimed that he was killed by his second wife, who, when questioned by firefighters at the scene, allegedly said, 'Fuck off, I'm fixing myself a drink.'",
+   "books":"The Bourne Identity, The Bourne Supremacy"
   },
    {
    "first": "James",
    "last": "Patterson",
    "genre":"Thriller",
    "sales": 275,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/patterson.jpg",
+   "description":"James Patterson didn't become a full-time novelist until he was in his late 40s and retired from a carer in advertising. He has hit #1 on the <i>New York Times</i> bestseller list more times (67) than any other author in history. In recent years, one in every 17 hardcover novels sold in the U.S. has had Patterson's name on the cover.",
+   "books":"Kiss the Girls, Along Came a Spider, the Alex Cross series"
   },
    {
    "first": "Frederic",
    "last": "Dard",
    "genre":"Mystery",
    "sales": 270,
-   "languange": "French",
-   "description":"testing...."
+   "language": "French",
+   "photo":"../img/dard.jpg",
+   "description":"Frederic Dard wrote most of his crime novels in the first person, using the name of his main character -- San-Antonio -- as his pen name on the cover (this is akin to reading <i>Hamlet</i>, by Hamlet). Dard chose the character's name while randomly pointing at a map of the United States.",
+   "books":"the San Antonio series"
   },
   {
    "first": "Jeffrey",
    "last": "Archer",
    "genre":"Thriller",
    "sales": 270,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/archer.jpg",
+   "description":"Jeffrey Archer served in the British Parliament before starting a writing career. He was forced to resign from Parliament amid a financial scandal in 1974. He wrote his first novel as a way to avoid bankruptcy, and went on to sell more than 270 million books. Archer reentered politics in the late 1980s, only to be convicted of perjury and perversion of justice for lying during a libel trial. He spent two years in prison.",
+   "books":"Kane and Abel, The Fourth Estate"
   },
  {
    "first": "Stan and Jan",
    "last": "Berenstain",
    "genre":"Children/Young Adult",
    "sales": 260,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/berenstain.jpg",
+   "description":"Stan and Jan Berenstein's series of children's books -- wholesome tales about a family of bears -- is the source of one of the internet's stranger conspiracy theories. Many people swear that the couples's surname is spelled with an E (Berestein), and they are undeterred when presented with evidence to the contrary. Some say that it is proof of an alterative parallel universe.",
+   "books":"The Berenstain Bears series"
   },
  {
   "first": "John",
    "last": "Grisham",
    "genre":"Thriller",
    "sales": 250,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/grisham.jpg",
+   "description":"John Grisham practiced criminal law and served in the Mississippi House of Representatives before becoming a full-time writer. His publisher printed only 5,000 copies of his debut novel; some of his later works sold two million copies on their first printing. Nearly all of Grisham's legal thrillers have been turned into movies.",
+   "books":"A Time to Kill, The Firm"
   },
   {
    "first": "Zane",
    "last": "Grey",
    "genre":"Western",
    "sales": 250,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/grey.jpg",
+   "description":"Zane Grey belongs in a category with several other authors in this chart: writers who were massive successes in their day, but are largely forgotten now. Grey himself was anything but forgettable (he worked as a dentist and played minor league baseball before becoming a writer). But he wrote Westerns, and the man and his genre were both destined to fade from prominence.",
+   "books":"Riders of the Purple Sage, The Heritage of the Desert"
   },
   {
    "first": "Irving",
    "last": "Wallace",
    "genre":"Thriller",
    "sales": 250,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/iwallace.jpg",
+   "description":"Irving Wallace specialized in stories about underdogs and outsiders. He also loved strange facts and minutiae, and published a series of almanacs to house the odd tidbits of information.",
+   "books":"The Chapman Report, The Prize"
   },
   {
    "first": "J.R.R.",
    "last": "Tolkien",
    "genre":"Literature",
    "sales": 250,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/tolkien.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Lord of the Rings, The Hobbit"
   },
    {
    "first": "Karl",
    "last": "May",
    "genre":"Western",
    "sales": 200,
-   "languange": "German",
-   "description":"testing...."
+   "language": "German",
+   "photo":"../img/may.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+  "books":"the Orient Cycle, the Winnetou Trilogy"
   },
    {
    "first": "Mickey",
    "last": "Spillane",
    "genre":"Mystery",
    "sales": 200,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/spillane.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"I, The Jury, The Big Kill"
   },
    {
    "first": "C.S.",
    "last": "Lewis",
    "genre":"Literature",
    "sales": 200,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/cslewis.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Alice in Wonderland, Jabberwocky"
   },
    {
    "first": "Kyotaro",
    "last": "Nishimura",
    "genre":"Mystery",
    "sales": 200,
-   "languange": "Japanese",
-   "description":"testing...."
+   "language": "Japanese",
+   "photo":"../img/nishimura.png",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Mystery Train Disappears, The Terminal Murder Case"
   },
    {
    "first": "Dan",
    "last": "Brown",
    "genre":"Thriller",
    "sales": 200,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/brown.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Da Vinci Code, Angels and Demons"
   },
   {
    "first": "Ann M.",
    "last": "Martin",
    "genre":"Children/Young Adult",
    "sales": 180,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/martin.png",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Baby-Sitters Club series"
   },
    {
    "first": "Ryotaro",
    "last": "Shiba",
    "genre":"Literature",
    "sales": 180,
-   "languange": "Japanese",
-   "description":"testing...."
+   "language": "Japanese",
+   "photo":"../img/shiba.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Ryoma Goes His Way, Clouds Above the Hill"
   },
    {
    "first": "Arthur",
    "last": "Hailey",
    "genre":"Thriller",
    "sales": 170,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/hailey.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Hotel, Airport"
   },
    {
    "first": "Gerard",
    "last": "De Villiers",
    "genre":"Mystery",
    "sales": 150,
-   "languange": "French",
-   "description":"testing...."
+   "language": "French",
+   "photo":"../img/villiers.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"the SAS series of spy novels"
   },
    {
    "first": "Beatrix",
    "last": "Potter",
    "genre":"Children/Young Adult",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/potter.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Tale of Peter Rabbit"
   },
    {
    "first": "Michael",
    "last": "Chrichton",
    "genre":"Thriller",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/chrichton.jpg",
+   "description":"At one point in 1994, Michael Chrichton was the storyteller behind the number one movie in America (<i>Jurassic Park</i>), the number one television show (<i>ER</i>), and number one novel (<i>Disclosure</i>). If not for being self-employed, he would have gotten the biggest Christmas bonus in history.",
+   "books":"The Andromeda Strain, Jurassic Park"
   },
    {
    "first": "Richard",
    "last": "Scarry",
    "genre":"Children/Young Adult",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/scarry.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Best Word Book Ever, Things That Go"
   },
    {
    "first": "Clive",
-   "last": "Clussler",
+   "last": "Cussler",
    "genre":"Thriller",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/cussler.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Deep Six, Sahara"
   },
    {
    "first": "Alistair",
    "last": "MacLean",
    "genre":"Thriller",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/maclean.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Guns of Navarone, Ice Station Zebra"
   },
    {
    "first": "Ken",
    "last": "Follett",
    "genre":"Thriller",
    "sales": 150,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/follett.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Pillars of the Earth, Eye of the Needle"
   },
    {
    "first": "Astid",
    "last": "Lindgren",
    "genre":"Children/Young Adult",
    "sales": 145,
-   "languange": "Swedish",
-   "description":"testing...."
+   "language": "Swedish",
+   "photo":"../img/lindgren.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding..",
+   "books":"the Pippi Longstocking series"
   },
    {
    "first": "Debbie",
    "last": "Macomber",
    "genre":"Romance",
    "sales": 140,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/macomber.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Undercover Dreamer, Heartsong"
   },
   {
    "first": "Paulo",
    "last": "Coelho",
    "genre":"Literature",
    "sales": 140,
-   "languange": "Portuguese",
-   "description":"testing...."
+   "language": "Portuguese",
+   "photo":"../img/coelho.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Alchemist"
   },
      {
    "first": "E.L.",
    "last": "James",
    "genre":"Romance",
    "sales": 125,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/james.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Fifty Shades of Grey"
   },
      {
    "first": "Eliji",
    "last": "Yoshikawa",
    "genre":"Literature",
    "sales": 140,
-   "languange": "Japanese",
-   "description":"testing...."
+   "language": "Japanese",
+   "photo":"../img/yoshikawa.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Musashi, Taiko: An Epic Novel of War and Glory in Feudal Japan"
   },
      {
    "first": "Catherine",
    "last": "Cookson",
    "genre":"Romance",
    "sales": 120,
-   "languange": "English",
-   "description":"testing...."
-  },
-     {
-   "first": "Debbie",
-   "last": "Macomber",
-   "genre":"Romance",
-   "sales": 140,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/cookson.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Fifteen Streets, Katie Mulholland"
   },
      {
    "first": "Stephanie",
    "last": "Meyer",
    "genre":"Children/Young Adult",
    "sales": 116,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/meyer.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"the Twilight series"
   },
      {
    "first": "Norman",
    "last": "Bridwell",
    "genre":"Children/Young Adult",
    "sales": 110,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/bridwell.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Clifford the Big Red Dog"
   },
    {
    "first": "David",
    "last": "Baldacci",
    "genre":"Thriller",
    "sales": 110,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/baldacci.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Absolute Power, Split Second"
   },
      {
    "first": "Roald",
    "last": "Dahl",
    "genre":"Children/Young Adult",
    "sales": 200,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/dahl.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"James and the Giant Peach, Charlie and the Chocolate Factory"
   },
      {
    "first": "Ed",
    "last": "McBain",
    "genre":"Mystery",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/mcbain.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"King's Ransom, Three Blind Mice"
   },
      {
    "first": "V.C.",
    "last": "Andrews",
    "genre":"Horror",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/andrews.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Flowers in the Attic"
   },
      {
    "first": "Roger",
    "last": "Hargreaves",
    "genre":"Children/Young Adult",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/hargreaves.png",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"the Mr. Men and Little Miss series"
   },
-       {
+    {
    "first": "Anne",
    "last": "Rice",
    "genre":"Horror",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/rice.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Interview with the Vampire"
   },
     {
    "first": "Robin",
    "last": "Cook",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/cook.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Coma, Outbreak"
   },
   {
    "first": "Wilber",
    "last": "Smith",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/smith.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"The Dark of the Sun, Gold Mine"
   },
   {
    "first": "Erskine",
    "last": "Caldwell",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/caldwell.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Tobacco Road, God's Little Acre"
   },
  {
    "first": "Judith",
    "last": "Krantz",
    "genre":"Romance",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/krantz.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Scruples, Princess Daisy"
   },
   {
    "first": "Eleanor",
    "last": "Hibbert",
    "genre":"Romance",
    "sales": 100,
-   "languange": "English",
-   "description":"testing...."
+   "language": "English",
+   "photo":"../img/hibbert.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "books":"Mistress of Mellyn, the Victoria Holt series"
   },
   {
    "first": "Lewis",
    "last": "Carroll",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -589,7 +706,7 @@
    "last": "Robins",
    "genre":"Romance",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -597,7 +714,7 @@
    "last": "Xueqin",
    "genre":"Literature",
    "sales": 100,
-   "languange": "Chinese",
+   "language": "Chinese",
    "description":"testing...."
   },
   {
@@ -605,7 +722,7 @@
    "last": "Fleming",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -613,7 +730,7 @@
    "last": "Hesse",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -621,7 +738,7 @@
    "last": "Stout",
    "genre":"Mystery",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -629,7 +746,7 @@
    "last": "Golon",
    "genre":"Literature",
    "sales": 100,
-   "languange": "French",
+   "language": "French",
    "description":"testing...."
   },
   {
@@ -637,7 +754,7 @@
    "last": "Slaughter",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -645,7 +762,7 @@
    "last": "Burroughs",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -653,7 +770,7 @@
    "last": "Creasey",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -661,7 +778,7 @@
    "last": "Michener",
    "genre":"Literature",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -669,7 +786,7 @@
    "last": "Uchida",
    "genre":"Mystery",
    "sales": 100,
-   "languange": "Japanese",
+   "language": "Japanese",
    "description":"testing...."
   },
   {
@@ -677,7 +794,7 @@
    "last": "Morimura",
    "genre":"Mystery",
    "sales": 100,
-   "languange": "Japanese",
+   "language": "Japanese",
    "description":"testing...."
   },
   {
@@ -685,7 +802,7 @@
    "last": "Clark",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -693,7 +810,7 @@
    "last": "Jordan",
    "genre":"Romance",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -701,7 +818,7 @@
    "last": "Cornwell",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   },
   {
@@ -709,7 +826,7 @@
    "last": "Clancy",
    "genre":"Thriller",
    "sales": 100,
-   "languange": "English",
+   "language": "English",
    "description":"testing...."
   }
  ]
