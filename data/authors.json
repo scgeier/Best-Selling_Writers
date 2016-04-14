@@ -6,10 +6,10 @@
    "first":"William",
    "last": "Shakespeare",
    "genre":"Literature",
-   "sales": 4100,
+   "sales": 4000,
    "language": "English",
    "photo":"../img/shakespeare.jpg",
-   "description":"The Bard of Avon: the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in terms of sales and talent. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
+   "description":"The Bard of Avon is the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in terms of sales and talent. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
    "books":"Hamlet, Romeo and Juliet, etc., etc."
   },
   {
@@ -19,7 +19,7 @@
    "sales": 4000,
    "language": "English",
    "photo":"../img/christie.png",
-   "description":"Joan Baez once said of Bob Dylan (and I'm paraphrasing): He's not for everyone, but if you're interested, he goes way, way deep. The same could be said of Agatha Christie. Some people don't like mystery novels. But if you do, you like Agatha Christie. And you probably bought every paperback she wrote.",
+   "description":"Joan Baez once said of Bob Dylan (and I'm paraphrasing): He's not for everyone, but if you're interested, he goes way, way deep. The same could be said of Agatha Christie. Some people don't like traditional 'whodunnit' mystery novels. But if you do, you like Agatha Christie. And you probably bought every paperback she wrote.",
    "books":"Murder On The Orient Express, And Then There Were None"
   },
     {
@@ -39,7 +39,7 @@
    "sales": 800,
    "language": "English",
    "photo":"../img/steel.jpg",
-   "description":"Danielle Steel is the best-selling living fiction writer in the world. Her novels follow the formula (or did they invent it?) that turns TV movies into gold: take a family of rich, beautiful people, and put them in a crisis.",
+   "description":"Danielle Steel is the best-selling fiction author alive today. Her novels follow the formula (or did they invent it?) that turns TV movies into gold: take a family of rich, beautiful people, and put them in a crisis.",
    "books":"Wanderlust, Daddy, Heartbeat"
   },
   {
@@ -350,7 +350,7 @@
    "sales": 250,
    "language": "English",
    "photo":"../img/tolkien.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Lord of the Rings, The Hobbit"
   },
    {
@@ -360,7 +360,7 @@
    "sales": 200,
    "language": "German",
    "photo":"../img/may.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
   "books":"the Orient Cycle, the Winnetou Trilogy"
   },
    {
@@ -370,7 +370,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/spillane.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"I, The Jury, The Big Kill"
   },
    {
@@ -380,8 +380,8 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/cslewis.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
-   "books":"Alice in Wonderland, Jabberwocky"
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Chronicles of Narnia"
   },
    {
    "first": "Kyotaro",
@@ -390,7 +390,7 @@
    "sales": 200,
    "language": "Japanese",
    "photo":"../img/nishimura.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Mystery Train Disappears, The Terminal Murder Case"
   },
    {
@@ -400,7 +400,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/brown.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Da Vinci Code, Angels and Demons"
   },
   {
@@ -410,7 +410,7 @@
    "sales": 180,
    "language": "English",
    "photo":"../img/martin.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Baby-Sitters Club series"
   },
    {
@@ -420,7 +420,7 @@
    "sales": 180,
    "language": "Japanese",
    "photo":"../img/shiba.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Ryoma Goes His Way, Clouds Above the Hill"
   },
    {
@@ -430,7 +430,7 @@
    "sales": 170,
    "language": "English",
    "photo":"../img/hailey.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Hotel, Airport"
   },
    {
@@ -440,7 +440,7 @@
    "sales": 150,
    "language": "French",
    "photo":"../img/villiers.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"the SAS series of spy novels"
   },
    {
@@ -450,7 +450,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/potter.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Tale of Peter Rabbit"
   },
    {
@@ -470,7 +470,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/scarry.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Best Word Book Ever, Things That Go"
   },
    {
@@ -480,7 +480,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/cussler.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Deep Six, Sahara"
   },
    {
@@ -490,7 +490,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/maclean.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Guns of Navarone, Ice Station Zebra"
   },
    {
@@ -500,7 +500,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/follett.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Pillars of the Earth, Eye of the Needle"
   },
    {
@@ -510,7 +510,7 @@
    "sales": 145,
    "language": "Swedish",
    "photo":"../img/lindgren.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding..",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding..",
    "books":"the Pippi Longstocking series"
   },
    {
@@ -520,7 +520,7 @@
    "sales": 140,
    "language": "English",
    "photo":"../img/macomber.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Undercover Dreamer, Heartsong"
   },
   {
@@ -530,7 +530,7 @@
    "sales": 140,
    "language": "Portuguese",
    "photo":"../img/coelho.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Alchemist"
   },
      {
@@ -540,7 +540,7 @@
    "sales": 125,
    "language": "English",
    "photo":"../img/james.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Fifty Shades of Grey"
   },
      {
@@ -550,7 +550,7 @@
    "sales": 140,
    "language": "Japanese",
    "photo":"../img/yoshikawa.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Musashi, Taiko: An Epic Novel of War and Glory in Feudal Japan"
   },
      {
@@ -560,7 +560,7 @@
    "sales": 120,
    "language": "English",
    "photo":"../img/cookson.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Fifteen Streets, Katie Mulholland"
   },
      {
@@ -570,7 +570,7 @@
    "sales": 116,
    "language": "English",
    "photo":"../img/meyer.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"the Twilight series"
   },
      {
@@ -580,7 +580,7 @@
    "sales": 110,
    "language": "English",
    "photo":"../img/bridwell.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Clifford the Big Red Dog"
   },
    {
@@ -590,7 +590,7 @@
    "sales": 110,
    "language": "English",
    "photo":"../img/baldacci.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Absolute Power, Split Second"
   },
      {
@@ -600,7 +600,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/dahl.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"James and the Giant Peach, Charlie and the Chocolate Factory"
   },
      {
@@ -610,7 +610,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/mcbain.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"King's Ransom, Three Blind Mice"
   },
      {
@@ -620,7 +620,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/andrews.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Flowers in the Attic"
   },
      {
@@ -630,7 +630,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/hargreaves.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"the Mr. Men and Little Miss series"
   },
     {
@@ -640,7 +640,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/rice.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Interview with the Vampire"
   },
     {
@@ -650,7 +650,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/cook.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Coma, Outbreak"
   },
   {
@@ -660,7 +660,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/smith.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"The Dark of the Sun, Gold Mine"
   },
   {
@@ -670,7 +670,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/caldwell.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Tobacco Road, God's Little Acre"
   },
  {
@@ -680,7 +680,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/krantz.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Scruples, Princess Daisy"
   },
   {
@@ -690,7 +690,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/hibbert.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles I have not yet populated with the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for your understanding.",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
    "books":"Mistress of Mellyn, the Victoria Holt series"
   },
   {
@@ -699,7 +699,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/carroll.jpg",
+   "description":"Lewis Carroll (real name: Charles Dodgson) was a philosopher, mathemetician, deacon, photographer and inventor. And he also wrote stories that have stayed in the cultural consciousness for over 150 years. Carroll's work has shown countless minds the power and beauty of the absurd. Curiouser and curiouser, indeed.",
+   "books":"Alice in Wonderland, Through the Looking Glass"
   },
   {
    "first": "Denise",
@@ -707,7 +709,9 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/robins.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Marriage Bond, Sealed Lips"
   },
   {
    "first": "Cao",
@@ -715,7 +719,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "Chinese",
-   "description":"testing...."
+   "photo":"../img/xueqin.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"Dream of the Red Chamber"
   },
   {
    "first": "Ian",
@@ -723,7 +729,9 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/fleming.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"the James Bond novels, Chitty-Chitty-Bang-Bang"
   },
   {
    "first": "Hermann",
@@ -731,7 +739,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/hesse.jpg",
+   "description":"Firmly entrenched in the pantheon of all-time great German authors (alongside Goethe and Mann, to name a few), Hermann Hesse was the master of literary psychology and spirituality. He won the Nobel Prize in 1946, and is the only such laureate in this chart.",
+   "books":"Siddhartha, Steppenwolf"
   },
   {
    "first": "Rex",
@@ -739,7 +749,9 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/stout.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"the Nero Wolfe books"
   },
   {
    "first": "Sergeanne",
@@ -747,7 +759,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "French",
-   "description":"testing...."
+   "photo":"../img/golon.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"the Angelique series"
   },
   {
    "first": "Frank G.",
@@ -755,7 +769,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/slaughter.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"Sangaree, Doctor's Wives"
   },
   {
    "first": "Edgar Rice",
@@ -763,7 +779,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/burroughs.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"the Tarzan series"
   },
   {
    "first": "John",
@@ -771,7 +789,9 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/creasey.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Commander George Gideon series, the Baron series"
   },
   {
    "first": "James",
@@ -779,7 +799,9 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/michener.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"Tales of the South Pacific, Texas"
   },
   {
    "first": "Yasuo",
@@ -787,7 +809,9 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "Japanese",
-   "description":"testing...."
+   "photo":"../img/uchida.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Togakushi Legend Murders"
   },
   {
    "first": "Seiichi",
@@ -795,7 +819,9 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "Japanese",
-   "description":"testing...."
+   "photo":"../img/morimura.png",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Devil's Gluttony"
   },
   {
    "first": "Mary Higgins",
@@ -803,7 +829,9 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/clark.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"Where are the Children? Before I Say Goodbye"
   },
   {
    "first": "Penny",
@@ -811,7 +839,9 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/jordan.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"A Perfect Family; To Love, Honor and Betray"
   },
   {
    "first": "Patricia",
@@ -819,7 +849,9 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/cornwell.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"Postmortem, Body of Evidence"
   },
   {
    "first": "Tom",
@@ -827,7 +859,9 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "description":"testing...."
+   "photo":"../img/clancy.jpg",
+   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "books":"The Hunt for Red October, Patriot Games"
   }
  ]
 }

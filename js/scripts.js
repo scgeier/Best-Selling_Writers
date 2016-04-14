@@ -96,7 +96,7 @@ node.append("title")
 function salesInfo(d) {
     if (d.sales >= 1000) {
         return (d.sales / 1000) + " billion books sold";
-    }else{
+    } else{
       return d.sales + " million books sold";
     }
 };
