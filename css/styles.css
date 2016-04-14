@@ -18,7 +18,6 @@ circle {
   fill-opacity: 1;
 }
 
-
 text {
   font: 12px sans-serif;
 }
@@ -27,8 +26,8 @@ text {
   padding-right:20px;
 }
 
-.content-text {
-  font-size:1em;
+.content-text, .biography {
+  padding-right:2%;
 }
 
 img {
@@ -38,16 +37,11 @@ img {
   margin-right:10px;
 }
 
-.description{
-  font-weight:300;
-  padding-right:2%;
-}
-
-.description h3 {
+.biography h3 {
   font-family:Arial;
 }
 
-.description span {
+.biography span {
   font-weight:bold;
 }
 

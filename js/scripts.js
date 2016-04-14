@@ -1,9 +1,11 @@
+//Set the size of the chart and use the D3 format that puts commas in the numbers
 var diameter = 560,
     format = d3.format(",d");
 
+//Set the size of the pack layout and make the area of each circle a function of the data//
 var pack = d3.layout.pack()
     .size([diameter - 50, diameter - 50])
-    .value(function(d) { return d.sales; })//make the area of each circle a function of the data//
+    .value(function(d) { return d.sales; })
     .sort(function comparator(a, b) {
           return -(a.value - b.value);
     });
@@ -21,7 +23,7 @@ var legend = d3.select("#legend").append("svg")
     .attr("height", 200)
     //.style("background", "#dddddd")
 
-//The data set for the Legend
+//Make the data set for the Legend
 var legendData = [
       {
         cx: 50,
@@ -60,39 +62,36 @@ var legendData = [
       }
       ];
     
-//Make a div for the author info to appear to the right of the chart on mouseovers    
+//Make a div for author biogrpahies to appear to the right of the chart on bubble mouseovers    
 var tooltip = d3.select("body").append("div")
                 .attr("class", "tooltip")
                 .style("position", "absolute")
                 .style("opacity", 0);
 
-//Initialize the URL for the first JSON file on load
-var currentUrl = "../data/authors.json";
+
 
 //Build the chart
-function update() {
-  
-d3.json(currentUrl, function(error, root) {
+d3.json("../data/authors.json", function(error, root) {
   if (error) throw error;
 
-  var node = svg.datum(root).selectAll(".node")
+var node = svg.datum(root).selectAll(".node")
       .data(pack.nodes)
-     
-node.exit().remove()
 
+//If a JSON object has children, give it the "node" class; otherwise, make it "leaf node"//
 node.enter().append("g")
-      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })//if the JSON object has children, give it the "node" class; otherwise, make it "leaf node"//
+      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
       .transition()
       .duration(2000)
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
   
   
-//Add a mouseover to show each of the album sales figures//
+//Add a mouseover tooltip to show the number of books sold over each bubble//
 node.append("title")
       .text(function(d){
             return salesInfo(d);
       });
-      
+
+//Add a function to change 'million' to 'billion,' when appropriate     
 function salesInfo(d) {
     if (d.sales >= 1000) {
         return (d.sales / 1000) + " billion books sold";
@@ -101,7 +100,7 @@ function salesInfo(d) {
     }
 };
 
-//Create the circles using the JSON data//
+//Create the circles using the JSON data; set the colors based on the fiction genre//
 node.append("circle")
       .attr("r", function(d) { return d.r; })
       .style("fill", function(d){
@@ -124,7 +123,7 @@ node.append("circle")
           return color;
       })
 
-    //Make the author's information replace the intro text in the right-hand div when user hovers over a bubble//
+//Replace the project intro text in the right-hand div witht the author bios when user hovers over a bubble//
       .on("mouseenter", function(d){
             if (d.description !== undefined) {
                   
@@ -132,10 +131,10 @@ node.append("circle")
            .style("opacity", 0)
          tooltip.transition()
           .delay(200)
-          .attr("class", "col-sm-12 col-md-6")
+          .attr("class", "col-sm-12 col-md-6 biography")
           .style("opacity", 1)
           .style("left", "50%")
-          .style("bottom", "40%")
+          .style("bottom", "45%")
   
           
           tooltip.html("<h3><span>" + d.first + " " + d.last + "</span></h3>"
@@ -162,6 +161,7 @@ node.filter(function(d) { return !d.children; }).append("text")
       .style("font-size", ".65em")
       .text(function(d) { return authorName(d);});
 
+//Add a function to display both first and last names when there is enough space in the bubble
 function authorName(d){
       if (d.sales > 700 ) {
         return d.first + " " + d.last;
@@ -170,6 +170,7 @@ function authorName(d){
       }
 };
 
+//Build the legend below the chart
 legend.selectAll("circle")
       .data(legendData)
       .enter()
@@ -194,17 +195,5 @@ legend.selectAll("text")
       .attr("fill", "black")
       .text( function (d) {return d.title;});
 });
-
-
-//Make a click event to enter new JSON data
-//d3.select("#option")
-      //.on("click", function(e){
-        //currentUrl = "../data/1997.json";
-        //update();
-        //})
-      
-};
-
-update();
 
 d3.select(self.frameElement).style("height", diameter + "px");
