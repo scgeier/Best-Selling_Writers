@@ -350,7 +350,7 @@
    "sales": 250,
    "language": "English",
    "photo":"../img/tolkien.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"After serving in World War I, J.R.R. Tolkien's first civilian job was with the <em>Oxford Engligh Dictionary</em>, writing entries for the letter W. He later became an English professor at Oxford and one of the best-selling writers of fantasy literature in history.",
    "books":"The Lord of the Rings, The Hobbit"
   },
    {
@@ -360,7 +360,7 @@
    "sales": 200,
    "language": "German",
    "photo":"../img/may.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Karl May is the most successfull German-language writer of all time. This is interesting, considering that many of his novels are set in the American West.",
   "books":"the Orient Cycle, the Winnetou Trilogy"
   },
    {
@@ -370,7 +370,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/spillane.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Mickey Spillane began as a comic book writer, working on the Superman and Batman series in the 1940s. He later served as a fighter pilot in World War II and wrote his first novel in 19 days. The book went on to sell six million copies. Spillane's hard-boiled detective stories were considered racy and violent in their day.",
    "books":"I, The Jury, The Big Kill"
   },
    {
@@ -380,7 +380,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/cslewis.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Lewis is second only to his good friend J.R.R. Tolkien in the sales of fanstasy literature. A former atheist, Lewis turned to Christianity after a long discussion with Tolkien in 1931, and many of his novels are imbued with Christian themes.",
    "books":"The Chronicles of Narnia"
   },
    {
@@ -390,7 +390,7 @@
    "sales": 200,
    "language": "Japanese",
    "photo":"../img/nishimura.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"One of Nishimura's novels begins when a crowded passenger train suddenly disappears between two stations. You want to read more, don't you? So do millions of other people.",
    "books":"The Mystery Train Disappears, The Terminal Murder Case"
   },
    {
@@ -400,7 +400,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/brown.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Dan Brown worked as a songwriter and English teacher before becoming a novelist. The career change paid off. If you walked along a beach in any given summer in the mid-2000s, chances are you saw more dog-eared copies of <em>The Da Vinci Code</em> than seashells.",
    "books":"The Da Vinci Code, Angels and Demons"
   },
   {
@@ -410,7 +410,7 @@
    "sales": 180,
    "language": "English",
    "photo":"../img/martin.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"The pitch - a group of tween friends runs a babysitting service in Connecticut -- doesn't scream 'blockbuster' to most people. But it's practically required reading for an 11-year-old girl.<em> The Baby-Sitters Club</em> series has sold more than 176 million copies.",
    "books":"The Baby-Sitters Club series"
   },
    {
@@ -420,7 +420,7 @@
    "sales": 180,
    "language": "Japanese",
    "photo":"../img/shiba.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Ryotaro Shiba was best known for historical novels set in 19th century Japan. His work often explored what it meant to be Japanese during periods of dramatic change.",
    "books":"Ryoma Goes His Way, Clouds Above the Hill"
   },
    {
@@ -430,7 +430,7 @@
    "sales": 170,
    "language": "English",
    "photo":"../img/hailey.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Arthur Hailey conquered a strange but wildly successful niche: books about workplaces (e.g., <em>Airport</em>, which was about an airport, and <em>Hotel</em>, which was -- you guessed it -- set in a hotel). He typically spent a full year researching each industry before sitting down the typewriter.", 
    "books":"Hotel, Airport"
   },
    {
@@ -450,7 +450,7 @@
    "sales": 150,
    "language": "English",
    "photo":"../img/potter.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Beatrix Potter is arguably the most British-sounding name in this list, and undoubtedly the one most often associated with illustrated children's books about rabbits. Potter was also renowned for her watercolor paintings of mushrooms.",
    "books":"The Tale of Peter Rabbit"
   },
    {
@@ -600,7 +600,7 @@
    "sales": 200,
    "language": "English",
    "photo":"../img/dahl.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Filled with dark humor and villianous adult characters, Roald Dahl's novels have a way of connecting with the childhood psyche and leaving a lasting impression. Four of Dahl's books appeared in a 2003 BBC survey of the 100 most beloved novels of all time.",
    "books":"James and the Giant Peach, Charlie and the Chocolate Factory"
   },
      {

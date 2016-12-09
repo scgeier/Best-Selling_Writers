@@ -27,37 +27,37 @@ var legend = d3.select("#legend").append("svg")
 var legendData = [
       {
         cx: 50,
-        fill:"#e7969c",
+        fill:"#1F77b4",
         title:"Romance"
       },
       {
         cx: 150,
-        fill:"#bd9e39",
+        fill:"#ff7f0e",
         title:"Mystery"
       },
        {
         cx: 250,
-        fill:"#fdae6b",
+        fill:"#2ca02c",
         title:"Children/YA"
       },
         {
         cx: 350,
-        fill:"#e7ba52",
+        fill:"#cc0000",
         title:"Thriller"
       },
       {
         cx: 450,
-        fill:"#8ca252",
+        fill:"#9467bd",
         title:"Horror"
       },
       {
         cx: 550,
-        fill:"#e7cb94",
+        fill:"#8c564b",
         title:"Western"
       },
        {
         cx: 650,
-        fill:"#cedb9c",
+        fill:"#e6e600",
         title:"Literature"
       }
       ];
@@ -106,19 +106,19 @@ node.append("circle")
       .style("fill", function(d){
         var color;
           if (d.genre == "Romance") {
-            color = "#e7969c";
+            color = "#1F77b4";
           }else if(d.genre == "Mystery"){
-            color = "#bd9e39";
+            color = "#ff7f0e";
           }else if(d.genre == "Children/Young Adult"){
-            color = "#fdae6b";
+            color = "#2ca02c";
           }else if (d.genre == "Thriller") {
-            color = "#e7ba52";
+            color = "#cc0000";
           } else if (d.genre == "Horror") {
-            color = "#8ca252";
+            color = "#9467bd";
           }else if (d.genre == "Western") {
-            color = "#e7cb94";
+            color = "#8c564b";
           }else if (d.genre == "Literature") {
-            color = "#cedb9c";
+            color = "#e6e600";
           }
           return color;
       })
