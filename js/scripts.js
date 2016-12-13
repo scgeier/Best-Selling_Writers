@@ -124,7 +124,7 @@ node.append("circle")
       })
 
 //Replace the project intro text in the right-hand div witht the author bios when user hovers over a bubble//
-      .on("mouseenter", function(d){
+      .on("click", function(d){
             if (d.description !== undefined) {
                   
         d3.select("#caveat")

@@ -520,7 +520,7 @@
    "sales": 140,
    "language": "English",
    "photo":"../img/macomber.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Debbie Macomber wrote her first book when she was 30 years old and raising four children. She soon found a lucrative niche: inspirational romances set in small towns at Christmas. Her stories have become hallmarks of the Hallmark Channel (ahem).",
    "books":"Undercover Dreamer, Heartsong"
   },
   {
@@ -530,7 +530,7 @@
    "sales": 140,
    "language": "Portuguese",
    "photo":"../img/coelho.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Coelho's allegorical novel, <em>The Alchemist</em>, formerly held the Guinness World Record for the most translated non-religious book in history. As of 2009, it was availalble in 67 languages. Coelho co-wrote several Brazilian classic rock songs before settling into a writing career in the 1980s.",
    "books":"The Alchemist"
   },
      {
@@ -540,17 +540,17 @@
    "sales": 125,
    "language": "English",
    "photo":"../img/james.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"E.L. James' became inspired to write her runaway blockbuster, <em>Fifty Shades of Grey</em>, after reading the <em>Twilight</em> series of vampire novels in 2008 (see Stephanie Meyer, also in this chart). James was in her mid-40s at the time and had never written a book in her life. Originally self-published as an e-book, <em>Grey</em> was the true breakout novel in that medium. Some have described the series as 'mommy porn' and speculated that it owed its initial success, in part, to the discreet nature of e-readers.",
    "books":"Fifty Shades of Grey"
   },
      {
-   "first": "Eliji",
+   "first": "Eiji",
    "last": "Yoshikawa",
    "genre":"Literature",
    "sales": 140,
    "language": "Japanese",
    "photo":"../img/yoshikawa.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Eiji Yoshikawa was best known for sprawling epics about samurai and folk heroes. His own life could have been an epic novel. He dropped out of school to help his family when he was 11, suffered a near-fatal work accident seven years later, lived through the Great Kanto Earthquake in 1923, and served as a correspondent during the Second Sino-Japanse War.",
    "books":"Musashi, Taiko: An Epic Novel of War and Glory in Feudal Japan"
   },
      {
@@ -560,7 +560,7 @@
    "sales": 120,
    "language": "English",
    "photo":"../img/cookson.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Catherine Cookson began writing as a form of therapy at age 40, after suffering three miscarriages, a stillbirth, and a nervous breakdown. She went on to become one of the most successful authors in British history. At one point, her novels accounted for a third of the books in circulation in Britain's public libraries.",
    "books":"The Fifteen Streets, Katie Mulholland"
   },
      {
