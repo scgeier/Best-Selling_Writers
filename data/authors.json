@@ -570,7 +570,7 @@
    "sales": 116,
    "language": "English",
    "photo":"../img/meyer.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Stephanie Meyer had never even written a short story before penning the first <em>Twilight</em> novel in 2005. The series has gone on to become one of the biggest publishing phenomenons of the 21st century. Like E.L. James, Meyer has been criticized (most notbably, by Steven King) as a second-rate writer whose success can be attributed more to the prurient thrills of her stories than their literary merit.",
    "books":"the Twilight series"
   },
      {
@@ -580,7 +580,7 @@
    "sales": 110,
    "language": "English",
    "photo":"../img/bridwell.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"An illustrator by trade, Bridwell's writing career began when an editor nonchalantly suggested that he turn one of his cartoons into a story. The drawing featured a big red dog. You've probably heard of his name.",
    "books":"Clifford the Big Red Dog"
   },
    {
@@ -590,7 +590,7 @@
    "sales": 110,
    "language": "English",
    "photo":"../img/baldacci.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"You don't have to be a spy to write a spy novel, and you don't have to be a cowboy to write a Western. But to pen a great courtroom thriller, it seems like you have to earn your bona fides. Like the two other best-selling legal writers in this chart (John Grisham and Erle Stanley Gardner), David Baldacci practiced law before writing his first novel.",
    "books":"Absolute Power, Split Second"
   },
      {
@@ -610,8 +610,8 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/mcbain.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
-   "books":"King's Ransom, Three Blind Mice"
+   "description":"Ed McBain was born Salvatore Lombino, and then became Evan Hunter, John Abbott, Curt Cannon, Hunt Collins, Ezra Hannon, and Richard Marsten, to name a few. He shifted genres as seamlessly as he changed names, writing everything from science fiction to children's books to police procedurals. The last of these genres became his calling card.",
+   "books":"Blackboard Jungle, King's Ransom"
   },
      {
    "first": "V.C.",
@@ -620,7 +620,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/andrews.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"If you grew up in 1980s America, chances are your mother had a well-worn paperback copy of <em>Flowers in the Attic</em> on the bookshelf. V.C. Andrews wrote <em>Flowers</em>, her first novel, in her mid-40s. She became the undisputed champion of the sibling incest genre.",
    "books":"Flowers in the Attic"
   },
      {

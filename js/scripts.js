@@ -134,7 +134,7 @@ node.append("circle")
           .attr("class", "col-sm-12 col-md-6 biography")
           .style("opacity", 1)
           .style("left", "50%")
-          .style("bottom", "45%")
+          .style("bottom", "40%")
   
           
           tooltip.html("<h3><span>" + d.first + " " + d.last + "</span></h3>"
