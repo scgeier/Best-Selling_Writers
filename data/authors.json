@@ -690,7 +690,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/hibbert.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Eleanor Hibbert had incredible range, writing everything from light romance to murder mysteries to historical dramas. She used a different pen name for each genre and found success with most of them. Hibbert was also prolific and devoted; she typically wrote 5,000 words every day by lunchtime.",
    "books":"Mistress of Mellyn, the Victoria Holt series"
   },
   {
@@ -750,17 +750,17 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/stout.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Rex Stout (yes, that's his real name) reportedly read the Bible twice by the time he was four, won the state spelling bee at 13, invented a banking system for public schools, and served on the board of the American Civil Liberties Union. And then, in his late 40s, he turned to writing detective fiction. He went on to sell more than 100 million books.",
    "books":"the Nero Wolfe books"
   },
   {
-   "first": "Sergeanne",
+   "first": "Anne",
    "last": "Golon",
    "genre":"Literature",
    "sales": 100,
    "language": "French",
    "photo":"../img/golon.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Anne Golon is better known to English-speaking readers as Sergeanne Golon. This is because she collaborated with her husband, Serge, on her blockbuster novel, <em>Angelique, Marquise of the Angels</em>, and shared credit on the cover. When British publishers released the English translation, they merged the two names. Golon is still writing the <em>Angelique</em> series, nearly 60 years after the first book appeared.",
    "books":"the Angelique series"
   },
   {
@@ -770,7 +770,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/slaughter.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Frank Slaughter graduated from Duke University at 17 and then went to medical school at Johns Hopkins. He began writing fiction while working as a doctor in Florida. He became the Robin Cook of his day, penning fast-paced medical dramas that sold in the millions.",
    "books":"Sangaree, Doctor's Wives"
   },
   {
@@ -780,7 +780,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/burroughs.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"If one of your characters makes for an instantly recognizable Halloween costume, you're probably in this chart. Burroughs' Tarzan is still spawning movies and bad jungle yodeling more than a hundred years after he wrote the first book. There are many theories as to who invented the 'Tarzan yell,' and how. In his novels, Burroughs simply described it as 'the victory cry of the bull ape.'",
    "books":"the Tarzan series"
   },
   {
@@ -790,7 +790,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/creasey.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"John Creasey wrote more than 600 novels during his career. Most people couldn't even <em>type</em> 600 novels-worth of words, let alone piece those words together into an enduring series of crime thrillers.",
    "books":"The Commander George Gideon series, the Baron series"
   },
   {
@@ -800,7 +800,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/michener.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"James Michener worked as an English teacher until World War II, when he served as a Navy lieutenant in the South Pacific. The experience changed his life. His first novel, <em>Tales of the South Pacific</em>, won the Pulitzer Prize and became the basis for the Broadway musical, <em>South Pacific</em>. He ended his writing career as the undisputed king of 'geographic' sagas (e.g., <em>Alaska, Texas, Chesapeake</em>).",
    "books":"Tales of the South Pacific, Texas"
   },
   {
@@ -810,7 +810,7 @@
    "sales": 100,
    "language": "Japanese",
    "photo":"../img/uchida.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"An inspiration to late bloomers everywhere, Yasuo Uchida self-published his first novel when he was in his mid-40s. He has since written more than 100 murder mysteries and sold more than 100 million books.",
    "books":"The Togakushi Legend Murders"
   },
   {
@@ -820,7 +820,7 @@
    "sales": 100,
    "language": "Japanese",
    "photo":"../img/morimura.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Seiichi Morimura rose to fame with <em>The Devil's Gluttony</em>, a novel about a secret Japanese Army unit that killed more than 3000 prisoners in medical experiments during the Second Sino-Japanese War.",
    "books":"The Devil's Gluttony"
   },
   {
@@ -830,7 +830,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/clark.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Mary Higgins Clark is the antithesis of the overnight successes in this chart; she wrote for six years and faced more than 40 rejections before her first short story was published in 1956. She has since earned title, 'Queen of Suspense,' for her taut thrillers with strong female leads.",
    "books":"Where are the Children? Before I Say Goodbye"
   },
   {
@@ -840,7 +840,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/jordan.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Penny Jordan worked as a bank secretary until the late 1970s, when she entered a romance writing contest and gained the attention of a literary agent. She went on to write more than 200 romance novels. Jordan once said that sex scenes were the hardest parts to write in each of her stories.",
    "books":"A Perfect Family; To Love, Honor and Betray"
   },
   {
@@ -850,7 +850,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/cornwell.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Patricia Cornwell worked in a medical examiner's office for six years before she published her first novel, <em>Postmortem</em>. The book was one of the first to put forensic science in the forefront of a story, and it became a huge influence on all of the <em>CSI's</em> that followed. For years, Cornwell has theorized that renowned British painter Walter Sickert was the man behind the Jack the Ripper murders. At one point, she bought a Sickert painting and cut up the canvas in atttempt to find clues.",
    "books":"Postmortem, Body of Evidence"
   },
   {
