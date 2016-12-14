@@ -629,8 +629,8 @@
    "genre":"Children/Young Adult",
    "sales": 100,
    "language": "English",
-   "photo":"../img/hargreaves.png",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "photo":"../img/hargreaves.jpg",
+   "description":"Original an advertising executive, Roger Hargreaves' writing career began when his eight-year-old son asked him what a tickle looks like. He drew a simple orange figure with long, rubbery arms, and named him Mr. Tickle. Other bodily functions and personality traits soon followed (Mr. Sneeze, Mr. Greedy), and Hargreaves became one of the most successful children's authors of all time.",
    "books":"the Mr. Men and Little Miss series"
   },
     {
@@ -640,7 +640,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/rice.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Anne Rice's parents orignally named her Howard, believing it would give her an unusual advantage in life, but she changed it to Anne on her first day of school. Rice's vampire stories were unique and influential in how they empahtized with the vampires, instead of the victims.",
    "books":"Interview with the Vampire"
   },
     {
@@ -650,7 +650,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/cook.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Robin Cook graduated from Columbia University medical school and wrote his first novel while stationed aboard a submarine in the U.S. Navy. He has an uncanny knack for turning controversial medicial science issues (e.g., stem cell research) into best-selling thrillers.",
    "books":"Coma, Outbreak"
   },
   {
@@ -660,7 +660,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/smith.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Smith grew up in South Africa and worked as an accountant before finding success as a writer. He later moved to London, but continued to use Africa as the backdrop for most of his historical fiction.",
    "books":"The Dark of the Sun, Gold Mine"
   },
   {
@@ -670,7 +670,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/caldwell.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Caldwell found fame in the 1930s, with crtically acclaimed novels about sharecroppers in the American South. One of his books, <em>God's Little Acre</em>, featured strong sexual themes and led to his arrest on obscenity charges. Another work, <em>Tobacco Road</em>, became a part of the cultural lexicon and shorthand for rural Southern poverty.",
    "books":"Tobacco Road, God's Little Acre"
   },
  {
@@ -680,7 +680,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/krantz.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Judith Krantz worked for many years as a freelance magazine journalist before publishing her first novel at the age of 50. That book reached number one on the <em>New York Times</em> bestseller list, and she never looked back.",
    "books":"Scruples, Princess Daisy"
   },
   {
