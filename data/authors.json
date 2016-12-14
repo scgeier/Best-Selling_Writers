@@ -710,7 +710,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/robins.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Talk about longevity: Denise Robins published her first novel in 1918 and her last in 1985. Writing was a family tradition; her mother, brother and daughter were also successful authors.",
    "books":"The Marriage Bond, Sealed Lips"
   },
   {
@@ -720,7 +720,7 @@
    "sales": 100,
    "language": "Chinese",
    "photo":"../img/xueqin.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"Cao Xueqin was still writing the final draft of his masterpiece, <em>Dream of the Red Chamber</em>, when he died in the late 18th century. The novel is now considered one of the greatest -- if not <em>the</em> greatest -- works in the history of Chinese literature. An entire field of academic study, Redology, is dedicated to analyzing this family epic.",
    "books":"Dream of the Red Chamber"
   },
   {
@@ -730,7 +730,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/fleming.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"There are a handful of writers in this chart who've created characters so famous they transcend the medium itself. Today's man on the street may not know the name Edgar Rice Burroughs or Ian Fleming. But he knows Tarzan, and he knows James Bond.",
    "books":"the James Bond novels, Chitty-Chitty-Bang-Bang"
   },
   {
@@ -860,7 +860,7 @@
    "sales": 100,
    "language": "English",
    "photo":"../img/clancy.jpg",
-   "description":"This is dummy text. If you are reading this, you happened to hover over one of the bubbles in which I have not yet written the author's biography. I will do so, of course, before publishing the site in my portfolio. Please hover over one of the larger bubbles (e.g., Shakespeare or Agatha Christie) to see examples of completed versions. Thank you for understanding.",
+   "description":"The king of the military techno-thriller, Tom Clancy's career took off after Ronald Reagan called <em>The Hunt for Red October</em> 'his kind of yarn.' Clancy went on to hit the bestseller list 17 times. He also designed video games and co-owned the Baltimore Orioles.",
    "books":"The Hunt for Red October, Patriot Games"
   }
  ]
