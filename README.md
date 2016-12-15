@@ -1,4 +1,4 @@
-# J583-Project-3
+# The Best-Selling Fiction Writers of All Time
 A D3 data visualization of the best-selling fiction writers of all time. Created as a project for the Advanced Interactive Multimedia class at the University of North Carolina at Chapel Hill.
 
 This app uses an AJAX call to load JSON data to the d3 chart. Therefore, you must set up a local server to view it on your machine.
