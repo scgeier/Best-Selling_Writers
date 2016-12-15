@@ -39,6 +39,13 @@ img {
   margin-right:10px;
 }
 
+#close-button{
+    color:#cc0000;
+    float:right;
+    font-size:1.3em;
+    padding:0% 2% 0% 0%;
+}
+
 .biography h3 {
   font-family:Arial;
 }
@@ -47,10 +54,40 @@ img {
   font-weight:bold;
 }
 
+
 #legend{
   padding-left:6%;
 }
 
 #legend circle {
   fill-opacity: 1;
+}
+
+@media screen and (max-width:1023px){
+  #legend{
+    position:absolute;
+    top:75%;
+  }
+  #content{
+    margin-top:10%;
+  }
+  #headline-break{
+    display:none;
+  }
+}
+
+/*Make responsive containers for the SVG canvases*/
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 90%; /* aspect ratio */
+    vertical-align: top;
+    overflow: hidden;
+}
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 0;
 }

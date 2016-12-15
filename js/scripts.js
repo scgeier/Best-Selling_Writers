@@ -10,10 +10,15 @@ var pack = d3.layout.pack()
           return -(a.value - b.value);
     });
 
-//Make the chart canvas
-var svg = d3.select("#chart").append("svg")
-    .attr("width", diameter)
-    .attr("height", diameter)
+//Make a responsive SVG chart canvas
+var svg = d3.select("#chart")
+    .append("div")
+    .classed("svg-container", true) 
+    .append("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 650 550")
+    .attr("class", "circle-chart")
+    .classed("svg-content-responsive", true)
   .append("g")
     .attr("transform", "translate(50,20)");//move the chart 100 to the left and 20 down within the canvas//
 
@@ -21,6 +26,7 @@ var svg = d3.select("#chart").append("svg")
 var legend = d3.select("#legend").append("svg")
     .attr("width", 1260)
     .attr("height", 200)
+    .attr("class", "circle-legend")
     //.style("background", "#dddddd")
 
 //Make the data set for the Legend
@@ -66,7 +72,7 @@ var legendData = [
 var tooltip = d3.select("body").append("div")
                 .attr("class", "tooltip")
                 .style("position", "absolute")
-                .style("opacity", 0);
+                .style("display", "none");
 
 
 
@@ -123,34 +129,66 @@ node.append("circle")
           return color;
       })
 
-//Replace the project intro text in the right-hand div witht the author bios when user hovers over a bubble//
+//Replace the project intro text in the right-hand div with the author bios when user clicks on a bubble//
       .on("click", function(d){
-            if (d.description !== undefined) {
-                  
-        d3.select("#caveat")
-           .style("opacity", 0)
-         tooltip.transition()
+            if (d.description !== undefined && window.innerWidth >= 999) {
+       
+              d3.select("#caveat")
+             .style("opacity", 0)
+          tooltip.transition()
           .delay(200)
           .attr("class", "col-sm-12 col-md-6 biography")
-          .style("opacity", 1)
+          .style("display","block")
           .style("left", "50%")
           .style("bottom", "40%")
   
-          
           tooltip.html("<h3><span>" + d.first + " " + d.last + "</span></h3>"
                       + salesInfo(d) + "</br></br>"
                       + "<img src=" + "'" + d.photo + "'" + "/>"
                       + d.description + "</br></br>"
                       + "Well-Known Works: <i>" + d.books + "</i>")
                 .attr("class", "description")
+            
+             console.log("desktop detected!")
+            }else if (d.description !== undefined && window.innerWidth < 999) {
+                 tooltip.transition()
+                 .delay(200)
+                 .attr("id", "selected-bubble")
+                 .style("display","block")
+                 .style("left", "2%")
+                 .style("top", (d3.event.pageY) + "px")
+                 .style("background", "white")
+  
+          
+          tooltip.html("<span id='close-button'>✖</span>" + "<h3><span>" + d.first + " " + d.last + "</span></h3>"
+                      + salesInfo(d) + "</br></br>"
+                      + "<img src=" + "'" + d.photo + "'" + "/>"
+                      + d.description + "</br></br>"
+                      + "Well-Known Works: <i>" + d.books + "</i>")
+                .attr("class", "description")
+           
+           //Blur everything but the tooltip on mobile//
+           document.getElementById("content").style.opacity = "0.2";
+           document.getElementById("chart").style.opacity = "0.2";
+           document.getElementById("legend").style.opacity = "0.2";
+           console.log("mobile detected!");
+           
+           //Add a close button to the tooltip on mobile//
+           var elClose = document.getElementById("close-button");
+           elClose.onclick = function(){
+              tooltip.transition().style("display", "none")
+              document.getElementById("content").style.opacity = "1";
+              document.getElementById("chart").style.opacity = "1";
+              document.getElementById("legend").style.opacity = "1";
             }
+      }
       })
       
     //Remove author bio on mouseleave//
       .on("mouseleave", function(d){
             d3.select("#caveat")
            .style("opacity", 1)
-         tooltip.transition().style("opacity", 0)
+         tooltip.transition().style("display","none")
       })
   
   
@@ -158,12 +196,12 @@ node.append("circle")
 node.filter(function(d) { return !d.children; }).append("text")
       .attr("dy", ".2em")
       .style("text-anchor", "middle")
-      .style("font-size", ".65em")
+      .style("font-size", ".8em")
       .text(function(d) { return authorName(d);});
 
 //Add a function to display both first and last names when there is enough space in the bubble
 function authorName(d){
-      if (d.sales > 700 ) {
+      if (d.sales > 1000 ) {
         return d.first + " " + d.last;
       }else{
         return d.last.substring(0, d.r / 4); 
