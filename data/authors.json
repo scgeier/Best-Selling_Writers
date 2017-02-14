@@ -8,7 +8,7 @@
    "genre":"Literature",
    "sales": 4000,
    "language": "English",
-   "photo":"../img/shakespeare.jpg",
+   "photo":"/writers/img/shakespeare.jpg",
    "description":"The Bard of Avon is the reigning champ of fiction writers, second only to God (the ulimate ghostwriter) in terms of sales and talent. Did you know that Shakespeare invented more than 1,700 words that we use today, including 'zany,' 'gossip,' and 'eyeball'?",
    "books":"Hamlet, Romeo and Juliet, etc., etc."
   },
@@ -18,7 +18,7 @@
    "genre":"Mystery",
    "sales": 4000,
    "language": "English",
-   "photo":"../img/christie.png",
+   "photo":"/writers/img/christie.png",
    "description":"Joan Baez once said of Bob Dylan (and I'm paraphrasing): He's not for everyone, but if you're interested, he goes way, way deep. The same could be said of Agatha Christie. Some people don't like traditional 'whodunnit' mystery novels. But if you do, you like Agatha Christie. And you probably bought every paperback she wrote.",
    "books":"Murder On The Orient Express, And Then There Were None"
   },
@@ -28,7 +28,7 @@
    "genre":"Romance",
    "sales": 1000,
    "language": "English",
-   "photo":"../img/cartland.jpg",
+   "photo":"/writers/img/cartland.jpg",
    "description":"Dame Barbara Cartland was known as the Queen of Romance. She was also one of the most prolific authors in history; she wrote 723 novels, including 23 <i>in one year</i>. Cartland's stories were a throwback to Victorian romance, with virginal heroines and few, if any, sexually suggestive scenes.",
    "books":"The Poor Governess, The Wicked Marquis"
   },
@@ -38,7 +38,7 @@
    "genre":"Romance",
    "sales": 800,
    "language": "English",
-   "photo":"../img/steel.jpg",
+   "photo":"/writers/img/steel.jpg",
    "description":"Danielle Steel is the best-selling fiction author alive today. Her novels follow the formula (or did they invent it?) that turns TV movies into gold: take a family of rich, beautiful people, and put them in a crisis.",
    "books":"Wanderlust, Daddy, Heartbeat"
   },
@@ -48,7 +48,7 @@
    "genre":"Literature",
    "sales": 750,
    "language": "English",
-   "photo":"../img/robbins.jpg",
+   "photo":"/writers/img/robbins.jpg",
    "description":"Robbins' novels -- much like Robbins himself -- played loose, moved fast and became epic in their sweep. He married three times, and once lived in the South American mountains with a group of Colombian bandits.",
    "books":"The Carpetbaggers, Where Love Has Gone"
   },
@@ -58,7 +58,7 @@
    "genre":"Mystery",
    "sales": 700,
    "language": "French",
-   "photo":"../img/simenon.jpg",
+   "photo":"/writers/img/simenon.jpg",
    "description":"The most successful Belgian writer in history, Georges Simenon penned more than 200 novels. He is best known for the detective character, Jules Maigret. He once claimed he had slept with more than 10,000 women. The Belgian government honored him with a coin, but not for that.",
    "books":"The Strangers in the House, The Strange Case of Peter the Lett"
   },
@@ -68,7 +68,7 @@
    "genre":"Thriller",
    "sales": 600,
    "language": "English",
-   "photo":"../img/sheldon.jpg",
+   "photo":"/writers/img/sheldon.jpg",
    "description":"Sidney Sheldon didn't start writing novels until he was in his 50s. But it wasn't like he spent his first few decades selling insurance. Sheldon won an Oscar for Best Original Screenplay, and created the TV shows 'I Dream of Jeannie' and 'Hart to Hart.' Then he sat down at a typewriter and moved 600 million books.",
    "books":"The Other Side of Midnight, Master of the Game"
   },
@@ -78,7 +78,7 @@
    "genre":"Children/Young Adult",
    "sales": 600,
    "language": "English",
-   "photo":"../img/blyton.jpg",
+   "photo":"/writers/img/blyton.jpg",
    "description":"Enid Blyton was one of the most successfull children's authors in history, as well as one of the most controversial. Critics aruged that her work was predictable at best, and racist at worst. She was also so prolific (she once wrote a 60,000-word book in five days), that some claimed she employed a group of ghostwriters.",
    "books":"The Enchanted Wood, The Rockingdown Mystery, Noddy Goes to Toyland"
   },
@@ -88,7 +88,7 @@
    "genre":"Children/Young Adult",
    "sales": 500,
    "language": "English",
-   "photo":"../img/seuss.jpg",
+   "photo":"/writers/img/seuss.jpg",
    "description":"Theodor Geisel (a/k/a Dr. Seuss -- which, by the way, rhymes with 'voice,' not 'deuce'), is one of the most beloved and original children's authors of all time. His work transcended the genre, becoming a fixture in the cultural consciousness. How many authors' canons include books read to five year olds (Green Eggs and Ham) and ones often given to those kids when they graduate from college (Oh, The Places You'll Go!)?",
   "books":"The Cat in the Hat, Green Eggs and Ham, etc. etc."
   },
@@ -98,7 +98,7 @@
    "genre":"Children/Young Adult",
    "sales": 500,
    "language": "English",
-   "photo":"../img/patten.jpg",
+   "photo":"/writers/img/patten.jpg",
    "description":"Gilbert Patten was the king of the 'dime-store' paperback. He specialized in sports-related stories, under the pen name Burt Standish.",
    "books":"The 'Frank Merriwell' series of novels"
   },
@@ -108,7 +108,7 @@
    "genre":"Children/Young Adult",
    "sales": 450,
    "language": "English",
-   "photo":"../img/rowling.jpg",
+   "photo":"/writers/img/rowling.jpg",
    "description":"J.K. Rowling went from living on welfare to becoming the most successful living author in Great Britain. Hollywood executives often say the key to success in movies is telling a story that appeals to the'4 Q's': young, old, male, female. Rowling did that with <i>Harry Potter</i>. In the past 15 years, it has not been unusual to find parents reading <i>Harry Potter</i> books and then handing them to their children. And vice versa.",
    "books":"the Harry Potter series"
   },
@@ -118,7 +118,7 @@
    "genre":"Literature",
    "sales": 413,
    "language": "Russian",
-   "photo":"../img/tolstoy.jpg",
+   "photo":"/writers/img/tolstoy.jpg",
    "description":"Leo Tolstoy is one of the most critically acclaimed writers in history, and arguably the second-most acclaimed in this chart, after Shakespeare. His work is notoriously dense -- <i>War and Peace</i> has over 580 characters and 2000 pages -- but it is also immensely rewarding to those who accept its challenge.",
    "books":"War and Peace, Anna Karenina"
   },
@@ -128,7 +128,7 @@
    "genre":"Romance",
    "sales": 400,
    "language": "Spanish",
-   "photo":"../img/tellado.jpg",
+   "photo":"/writers/img/tellado.jpg",
    "description":"Corin Tellado is the best-selling Spanish-language writer in history. Her romance novels stray from the formula for Western romance novels. Often set in the present, they use a direct style and often lack the eroticism of paperback bodice-rippers",
    "books":"Tu Pesado Me Condena, Te Odio Por Ser de Otro"
   },
@@ -138,7 +138,7 @@
    "genre":"Romance",
    "sales": 400,
    "language": "English",
-   "photo":"../img/collins.jpg",
+   "photo":"/writers/img/collins.jpg",
    "description":"Jackie Collins was the younger sister of actress Joan Collins. Her works became the paradigm of 1980s erotic pot-boilers, full of sex, money, glamour and intrigue.",
    "books":"The Stud, Hollywood Wives"
   },
@@ -148,7 +148,7 @@
    "genre":"Children/Young Adult",
    "sales": 400,
    "language": "English",
-   "photo":"../img/alger.jpg",
+   "photo":"/writers/img/alger.jpg",
    "description":"In the 19th century, Horatio Alger Jr. perfected a motif that became known as the 'Horatio Alger Myth' -- stories in which impoverished young boys achieve success through hard work, determination, and acts of honesty and courage.",
    "books":"Ragged Dick, Frank's Campaign"
   },
@@ -158,7 +158,7 @@
    "genre":"Children/Young Adult",
    "sales": 400,
    "language": "English",
-   "photo":"../img/stine.jpg",
+   "photo":"/writers/img/stine.jpg",
    "description":"Known as the 'Steven King of children's literature,' R.L. Stine began his career writing humor books under the name Jovial Bob Stine. He is the crazy counselor at the campfire, a testament to the fact that kids love a good scary story.",
    "books":"Goosebumps, Fear Street"
   },
@@ -168,7 +168,7 @@
    "genre":"Horror",
    "sales": 400,
    "language": "English",
-   "photo":"../img/koontz.jpg",
+   "photo":"/writers/img/koontz.jpg",
    "description":"In the world of horror fiction, Dean Koontz is the Lou Gehrig to Steven King's Babe Ruth. He has written under at least 10 pseudonyms, several of which have graced the covers of million-selling novels. That's quite a feat, when you think about it.",
    "books":"Watchers, Whispers, Odd Thomas"
   },
@@ -178,7 +178,7 @@
    "genre":"Romance",
    "sales": 400,
    "language": "English",
-   "photo":"../img/roberts.jpg",
+   "photo":"/writers/img/roberts.jpg",
    "description":"Nora Roberts was the first author inducted into the Romance Writers Hall of Fame (a room one imagines is overflowing with pastel paintings of shirtless men on horseback). Every book she has written since 1999 has reached number one on the <i>New York Times</i> bestseller list. In 1997, another romance writer in this chart, Janet Dailey, admitted to plagiarizing two of Roberts' novels.",
    "books":"Montana Sky, Northern Lights, True Betrayals"
   },
@@ -188,7 +188,7 @@
    "genre":"Literature",
    "sales": 357,
    "language": "Russian",
-   "photo":"../img/pushkin.jpg",
+   "photo":"/writers/img/pushkin.jpg",
    "description":"First and foremost a poet, Alexander Pushkin wrote his most famous novel, <i>Eugene Onegin</i>, as an ongoing poem over the course of his life. In 1837, Pushkin caught his brother-in-law, Georges-Charles de Heeckeren d'Anthes, trying to seduce his wife. He challenged Anthes to a duel, and died after being shot in the stomach. He was 36.",
    "books":"Eugene Onegin, Boris Godunuv"
   },
@@ -198,7 +198,7 @@
    "genre":"Horror",
    "sales": 350,
    "language": "English",
-   "photo":"../img/king.jpg",
+   "photo":"/writers/img/king.jpg",
    "description":"Steven King is the undisputed champ of modern blockbuster horror. And he doesn't get enough credit for his range. Everyone knows he wrote <i>The Shining</i> and countless other books that became scary movies. But he also wrote the stories that became <i>Stand By Me, The Shawshank Redemption</i>, and<i> The Green Mile.</i>",
    "books":"Carrie, The Shining, Misery"
   },
@@ -208,7 +208,7 @@
    "genre":"Western",
    "sales": 330,
    "language": "English",
-   "photo":"../img/lamour.jpg",
+   "photo":"/writers/img/lamour.jpg",
    "description":"Louis L'Amour was to Westerns what Agatha Christie was to mystery -- the undisputed giant of his genre. While some critics may have called his work formulaic, there is no doubt the formula worked, and delighted millions of people who love a good story about gunfights on the frontier.",
    "books":"Big Medicine, The Sixth Shotgun"
   },
@@ -218,7 +218,7 @@
    "genre":"Mystery",
    "sales": 325,
    "language": "English",
-   "photo":"../img/gardner.jpg",   
+   "photo":"/writers/img/gardner.jpg",   
    "description":"Erle Stanley Gardner left law school after one month, but continued to study on his own and passed the bar exam in 1911. He later turned his legal knowledge into a series of hugely successfuly novels that became the TV show <i>Perry Mason</i>.",
    "books":"the Perry Mason series"
   },
@@ -228,7 +228,7 @@
    "genre":"Thriller",
    "sales": 300,
    "language": "Chinese",
-   "photo":"../img/yong.jpg",
+   "photo":"/writers/img/yong.jpg",
    "description":"Jin Yong is the best-selling Chinese writer alive, even though he has written 'only' 15 novels (this an admittedly large number, but not when compared to many of the other authors in this chart). Yong writes <i>wuxia</i>, a genre of Chinese fiction that blends martial arts, sorcery and chivalry.",
    "books":"The Book and the Sword, The Legend of the Condor Heroes"
 
@@ -239,7 +239,7 @@
    "genre":"Mystery",
    "sales": 300,
    "language": "Japanese",
-   "photo":"../img/akagawa.jpg",
+   "photo":"/writers/img/akagawa.jpg",
    "description":"Jiro Akagawa's work ethic is astounding; he has written more than <i>560 novels</i> in less than 40 years. Akagawa is known for his humorous take on the mystery genre.",
    "books":"The Calico Cat Holmes series"
   },
@@ -249,7 +249,7 @@
    "genre":"Romance",
    "sales": 300,
    "language": "English",
-   "photo":"../img/dailey.jpg",
+   "photo":"/writers/img/dailey.jpg",
    "description":"Janet Dailey began her career at the age of 30, after deciding that she could write a better romance novel than the ones she was reading. She went on to write over a hundred books and sell over 300 million copies. In 1997, Dailey admitted to plagiarizing two of Danielle Steel's novels. She blamed it on a psychological disorder and settled a lawsuit with Steel for an undisclosed amount.",
    "books":"Touch the Wind, Foxfire Light"
   },
@@ -259,7 +259,7 @@
    "genre":"Mystery",
    "sales": 300,
    "language": "English",
-   "photo":"../img/wallace.jpg",
+   "photo":"/writers/img/wallace.jpg",
    "description":"Edgar Wallace is the literary equivalent of a Vaudeville superstar -- someone who was wildly popular in his time, but little known today. This is a shame. The man wrote the screenplay for <i>King Kong</i>.",
    "books":"The Green Archer, The Mind of Mr. J.G. Reeder"
   },
@@ -269,7 +269,7 @@
    "genre":"Thriller",
    "sales": 290,
    "language": "English",
-   "photo":"../img/ludlum.jpg",
+   "photo":"/writers/img/ludlum.jpg",
    "description":"Robert Ludlum is best known as the writer of the <i>Bourne</i> series of thrillers, the ones that the became blockbuster trilogy of Matt Damon movies. Ludlum died from burns suffered in a house fire in 2001. Some family members claimed that he was killed by his second wife, who, when questioned by firefighters at the scene, allegedly said, 'Fuck off, I'm fixing myself a drink.'",
    "books":"The Bourne Identity, The Bourne Supremacy"
   },
@@ -279,7 +279,7 @@
    "genre":"Thriller",
    "sales": 275,
    "language": "English",
-   "photo":"../img/patterson.jpg",
+   "photo":"/writers/img/patterson.jpg",
    "description":"James Patterson didn't become a full-time novelist until he was in his late 40s and retired from a carer in advertising. He has hit #1 on the <i>New York Times</i> bestseller list more times (67) than any other author in history. In recent years, one in every 17 hardcover novels sold in the U.S. has had Patterson's name on the cover.",
    "books":"Kiss the Girls, Along Came a Spider, the Alex Cross series"
   },
@@ -289,7 +289,7 @@
    "genre":"Mystery",
    "sales": 270,
    "language": "French",
-   "photo":"../img/dard.jpg",
+   "photo":"/writers/img/dard.jpg",
    "description":"Frederic Dard wrote most of his crime novels in the first person, using the name of his main character -- San-Antonio -- as his pen name on the cover (this is akin to reading <i>Hamlet</i>, by Hamlet). Dard chose the character's name while randomly pointing at a map of the United States.",
    "books":"the San Antonio series"
   },
@@ -299,7 +299,7 @@
    "genre":"Thriller",
    "sales": 270,
    "language": "English",
-   "photo":"../img/archer.jpg",
+   "photo":"/writers/img/archer.jpg",
    "description":"Jeffrey Archer served in the British Parliament before starting a writing career. He was forced to resign from Parliament amid a financial scandal in 1974. He wrote his first novel as a way to avoid bankruptcy, and went on to sell more than 270 million books. Archer reentered politics in the late 1980s, only to be convicted of perjury and perversion of justice for lying during a libel trial. He spent two years in prison.",
    "books":"Kane and Abel, The Fourth Estate"
   },
@@ -309,7 +309,7 @@
    "genre":"Children/Young Adult",
    "sales": 260,
    "language": "English",
-   "photo":"../img/berenstain.jpg",
+   "photo":"/writers/img/berenstain.jpg",
    "description":"Stan and Jan Berenstein's series of children's books -- wholesome tales about a family of bears -- is the source of one of the internet's stranger conspiracy theories. Many people swear that the couples's surname is spelled with an E (Berestein), and they are undeterred when presented with evidence to the contrary. Some say that it is proof of an alterative parallel universe.",
    "books":"The Berenstain Bears series"
   },
@@ -319,7 +319,7 @@
    "genre":"Thriller",
    "sales": 250,
    "language": "English",
-   "photo":"../img/grisham.jpg",
+   "photo":"/writers/img/grisham.jpg",
    "description":"John Grisham practiced criminal law and served in the Mississippi House of Representatives before becoming a full-time writer. His publisher printed only 5,000 copies of his debut novel; some of his later works sold two million copies on their first printing. Nearly all of Grisham's legal thrillers have been turned into movies.",
    "books":"A Time to Kill, The Firm"
   },
@@ -329,7 +329,7 @@
    "genre":"Western",
    "sales": 250,
    "language": "English",
-   "photo":"../img/grey.jpg",
+   "photo":"/writers/img/grey.jpg",
    "description":"Zane Grey belongs in a category with several other authors in this chart: writers who were massive successes in their day, but are largely forgotten now. Grey himself was anything but forgettable (he worked as a dentist and played minor league baseball before becoming a writer). But he wrote Westerns, and the man and his genre were both destined to fade from prominence.",
    "books":"Riders of the Purple Sage, The Heritage of the Desert"
   },
@@ -339,7 +339,7 @@
    "genre":"Thriller",
    "sales": 250,
    "language": "English",
-   "photo":"../img/iwallace.jpg",
+   "photo":"/writers/img/iwallace.jpg",
    "description":"Irving Wallace specialized in stories about underdogs and outsiders. He also loved strange facts and minutiae, and published a series of almanacs to house the odd tidbits of information.",
    "books":"The Chapman Report, The Prize"
   },
@@ -349,7 +349,7 @@
    "genre":"Literature",
    "sales": 250,
    "language": "English",
-   "photo":"../img/tolkien.jpg",
+   "photo":"/writers/img/tolkien.jpg",
    "description":"After serving in World War I, J.R.R. Tolkien's first civilian job was with the <em>Oxford Engligh Dictionary</em>, writing entries for the letter W. He later became an English professor at Oxford and one of the best-selling writers of fantasy literature in history.",
    "books":"The Lord of the Rings, The Hobbit"
   },
@@ -359,7 +359,7 @@
    "genre":"Western",
    "sales": 200,
    "language": "German",
-   "photo":"../img/may.jpg",
+   "photo":"/writers/img/may.jpg",
    "description":"Karl May is the most successfull German-language writer of all time. This is interesting, considering that many of his novels are set in the American West.",
   "books":"the Orient Cycle, the Winnetou Trilogy"
   },
@@ -369,7 +369,7 @@
    "genre":"Mystery",
    "sales": 200,
    "language": "English",
-   "photo":"../img/spillane.jpg",
+   "photo":"/writers/img/spillane.jpg",
    "description":"Mickey Spillane began as a comic book writer, working on the Superman and Batman series in the 1940s. He later served as a fighter pilot in World War II and wrote his first novel in 19 days. The book went on to sell six million copies. Spillane's hard-boiled detective stories were considered racy and violent in their day.",
    "books":"I, The Jury, The Big Kill"
   },
@@ -379,7 +379,7 @@
    "genre":"Literature",
    "sales": 200,
    "language": "English",
-   "photo":"../img/cslewis.jpg",
+   "photo":"/writers/img/cslewis.jpg",
    "description":"Lewis is second only to his good friend J.R.R. Tolkien in the sales of fanstasy literature. A former atheist, Lewis turned to Christianity after a long discussion with Tolkien in 1931, and many of his novels are imbued with Christian themes.",
    "books":"The Chronicles of Narnia"
   },
@@ -389,7 +389,7 @@
    "genre":"Mystery",
    "sales": 200,
    "language": "Japanese",
-   "photo":"../img/nishimura.png",
+   "photo":"/writers/img/nishimura.png",
    "description":"One of Nishimura's novels begins when a crowded passenger train suddenly disappears between two stations. You want to read more, don't you? So do millions of other people.",
    "books":"The Mystery Train Disappears, The Terminal Murder Case"
   },
@@ -399,7 +399,7 @@
    "genre":"Thriller",
    "sales": 200,
    "language": "English",
-   "photo":"../img/brown.jpg",
+   "photo":"/writers/img/brown.jpg",
    "description":"Dan Brown worked as a songwriter and English teacher before becoming a novelist. The career change paid off. If you walked along a beach in any given summer in the mid-2000s, chances are you saw more dog-eared copies of <em>The Da Vinci Code</em> than seashells.",
    "books":"The Da Vinci Code, Angels and Demons"
   },
@@ -409,7 +409,7 @@
    "genre":"Children/Young Adult",
    "sales": 180,
    "language": "English",
-   "photo":"../img/martin.png",
+   "photo":"/writers/img/martin.png",
    "description":"The pitch - a group of tween friends runs a babysitting service in Connecticut -- doesn't scream 'blockbuster' to most people. But it's practically required reading for an 11-year-old girl.<em> The Baby-Sitters Club</em> series has sold more than 176 million copies.",
    "books":"The Baby-Sitters Club series"
   },
@@ -419,7 +419,7 @@
    "genre":"Literature",
    "sales": 180,
    "language": "Japanese",
-   "photo":"../img/shiba.jpg",
+   "photo":"/writers/img/shiba.jpg",
    "description":"Ryotaro Shiba was best known for historical novels set in 19th century Japan. His work often explored what it meant to be Japanese during periods of dramatic change.",
    "books":"Ryoma Goes His Way, Clouds Above the Hill"
   },
@@ -429,7 +429,7 @@
    "genre":"Thriller",
    "sales": 170,
    "language": "English",
-   "photo":"../img/hailey.jpg",
+   "photo":"/writers/img/hailey.jpg",
    "description":"Arthur Hailey conquered a strange but wildly successful niche: books about workplaces (e.g., <em>Airport</em>, which was about an airport, and <em>Hotel</em>, which was -- you guessed it -- set in a hotel). He typically spent a full year researching each industry before sitting down the typewriter.", 
    "books":"Hotel, Airport"
   },
@@ -439,7 +439,7 @@
    "genre":"Mystery",
    "sales": 150,
    "language": "French",
-   "photo":"../img/villiers.jpg",
+   "photo":"/writers/img/villiers.jpg",
    "description":"Gerard De Villier's spy novels are a strange hybrid of pulp fiction and prophetic geopolitics. One of his last books, for example, juxtaposed graphic sex with an action scene that correctly predicted an attack on the Syrian government in 2012.",
    "books":"the SAS series of espionage novels"
   },
@@ -449,7 +449,7 @@
    "genre":"Children/Young Adult",
    "sales": 150,
    "language": "English",
-   "photo":"../img/potter.jpg",
+   "photo":"/writers/img/potter.jpg",
    "description":"Beatrix Potter is arguably the most British-sounding name in this list, and undoubtedly the one most often associated with illustrated children's books about rabbits. Potter was also renowned for her watercolor paintings of mushrooms.",
    "books":"The Tale of Peter Rabbit"
   },
@@ -459,7 +459,7 @@
    "genre":"Thriller",
    "sales": 150,
    "language": "English",
-   "photo":"../img/chrichton.jpg",
+   "photo":"/writers/img/chrichton.jpg",
    "description":"At one point in 1994, Michael Chrichton was the storyteller behind the number one movie in America (<i>Jurassic Park</i>), the number one television show (<i>ER</i>), and number one novel (<i>Disclosure</i>). If not for being self-employed, he would have gotten the biggest Christmas bonus in history.",
    "books":"The Andromeda Strain, Jurassic Park"
   },
@@ -469,7 +469,7 @@
    "genre":"Children/Young Adult",
    "sales": 150,
    "language": "English",
-   "photo":"../img/scarry.jpg",
+   "photo":"/writers/img/scarry.jpg",
    "description":"Richard Scarry was one of the most successful authors in the history of children's literature, if not the most humble (his books had a penchant for announcing their superiority in the genre; see below). Scarry tapped into the simple childhood pleasure of searching for objects inside of intricate illustrations.",
    "books":"Best Word Book Ever, Best Story Book Ever"
   },
@@ -479,7 +479,7 @@
    "genre":"Thriller",
    "sales": 150,
    "language": "English",
-   "photo":"../img/cussler.jpg",
+   "photo":"/writers/img/cussler.jpg",
    "description":"Known for his wildly successful maritime adventure novels, Clive Cussler lives a life befitting one of his own characters. He has discovered more than 60 shipwrecks and serves as a fellow of the Explorers Club of New York.",
    "books":"Deep Six, Sahara"
   },
@@ -489,7 +489,7 @@
    "genre":"Thriller",
    "sales": 150,
    "language": "English",
-   "photo":"../img/maclean.jpg",
+   "photo":"/writers/img/maclean.jpg",
    "description":"Alistair MacLean came up with great titles (<em>The Satan Bug</em> and <em>Ice Station Zebra</em> are particularly strong), and his works were forerunners of the modern war thriller. There were also examples of the public's shitfting tastes. He sold more than 150 million novels, but by 2006, none of them were in print in the United States.",
    "books":"The Guns of Navarone, Ice Station Zebra"
   },
@@ -499,7 +499,7 @@
    "genre":"Thriller",
    "sales": 150,
    "language": "English",
-   "photo":"../img/follet.jpg",
+   "photo":"/writers/img/follet.jpg",
    "description":"Ken Follett is one of the novelists in this chart who defies genre. He began his career with a series of best-selling thrillers, but found his greatest critical and commercial success with <em>The Pillars of the Earth</em>, a novel about the construction of a cathedral in the Middle Ages. German television viewers voted <em>Pillars</em> as the third-greatest book of all time in a 2004 survey.",
    "books":"The Pillars of the Earth, Eye of the Needle"
   },
@@ -509,7 +509,7 @@
    "genre":"Children/Young Adult",
    "sales": 145,
    "language": "Swedish",
-   "photo":"../img/lindgren.jpg",
+   "photo":"/writers/img/lindgren.jpg",
    "description":"There are essentially three ways to end up in this chart. 1) Write works of unparalled literary genius that become required reading for generations of high school and college students; 2) Write pot-boilers that get the water steaming with sex, murder, mystery, or preferrably, all three; and 3) Create a memorable character for a series of children's books. With Pippi Longstocking, Astrid Lindgren accomplished option three.",
    "books":"the Pippi Longstocking series"
   },
@@ -519,7 +519,7 @@
    "genre":"Romance",
    "sales": 140,
    "language": "English",
-   "photo":"../img/macomber.jpg",
+   "photo":"/writers/img/macomber.jpg",
    "description":"Debbie Macomber wrote her first book when she was 30 years old and raising four children. She soon found a lucrative niche: inspirational romances set in small towns at Christmas. Her stories have become hallmarks of the Hallmark Channel (ahem).",
    "books":"Undercover Dreamer, Heartsong"
   },
@@ -529,7 +529,7 @@
    "genre":"Literature",
    "sales": 140,
    "language": "Portuguese",
-   "photo":"../img/coelho.jpg",
+   "photo":"/writers/img/coelho.jpg",
    "description":"Coelho's allegorical novel, <em>The Alchemist</em>, formerly held the Guinness World Record for the most translated non-religious book in history. As of 2009, it was availalble in 67 languages. Coelho co-wrote several Brazilian classic rock songs before settling into a writing career in the 1980s.",
    "books":"The Alchemist"
   },
@@ -539,7 +539,7 @@
    "genre":"Romance",
    "sales": 125,
    "language": "English",
-   "photo":"../img/james.jpg",
+   "photo":"/writers/img/james.jpg",
    "description":"E.L. James' became inspired to write her runaway blockbuster, <em>Fifty Shades of Grey</em>, after reading the <em>Twilight</em> series of vampire novels in 2008 (see Stephanie Meyer, also in this chart). James was in her mid-40s at the time and had never written a book in her life. Originally self-published as an e-book, <em>Grey</em> was the true breakout novel in that medium. Some have described the series as 'mommy porn' and speculated that it owed its initial success, in part, to the discreet nature of e-readers.",
    "books":"Fifty Shades of Grey"
   },
@@ -549,7 +549,7 @@
    "genre":"Literature",
    "sales": 140,
    "language": "Japanese",
-   "photo":"../img/yoshikawa.jpg",
+   "photo":"/writers/img/yoshikawa.jpg",
    "description":"Eiji Yoshikawa was best known for sprawling epics about samurai and folk heroes. His own life could have been an epic novel. He dropped out of school to help his family when he was 11, suffered a near-fatal work accident seven years later, lived through the Great Kanto Earthquake in 1923, and served as a correspondent during the Second Sino-Japanse War.",
    "books":"Musashi, Taiko: An Epic Novel of War and Glory in Feudal Japan"
   },
@@ -559,7 +559,7 @@
    "genre":"Romance",
    "sales": 120,
    "language": "English",
-   "photo":"../img/cookson.jpg",
+   "photo":"/writers/img/cookson.jpg",
    "description":"Catherine Cookson began writing as a form of therapy at age 40, after suffering three miscarriages, a stillbirth, and a nervous breakdown. She went on to become one of the most successful authors in British history. At one point, her novels accounted for a third of the books in circulation in Britain's public libraries.",
    "books":"The Fifteen Streets, Katie Mulholland"
   },
@@ -569,7 +569,7 @@
    "genre":"Children/Young Adult",
    "sales": 116,
    "language": "English",
-   "photo":"../img/meyer.jpg",
+   "photo":"/writers/img/meyer.jpg",
    "description":"Stephanie Meyer had never even written a short story before penning the first <em>Twilight</em> novel in 2005. The series has gone on to become one of the biggest publishing phenomenons of the 21st century. Like E.L. James, Meyer has been criticized (most notbably, by Steven King) as a second-rate writer whose success can be attributed more to the prurient thrills of her stories than their literary merit.",
    "books":"the Twilight series"
   },
@@ -579,7 +579,7 @@
    "genre":"Children/Young Adult",
    "sales": 110,
    "language": "English",
-   "photo":"../img/bridwell.jpg",
+   "photo":"/writers/img/bridwell.jpg",
    "description":"An illustrator by trade, Bridwell's writing career began when an editor nonchalantly suggested that he turn one of his cartoons into a story. The drawing featured a big red dog. You've probably heard of his name.",
    "books":"Clifford the Big Red Dog"
   },
@@ -589,7 +589,7 @@
    "genre":"Thriller",
    "sales": 110,
    "language": "English",
-   "photo":"../img/baldacci.jpg",
+   "photo":"/writers/img/baldacci.jpg",
    "description":"You don't have to be a spy to write a spy novel, and you don't have to be a cowboy to write a Western. But to pen a great courtroom thriller, it seems like you have to earn your bona fides. Like the two other best-selling legal writers in this chart (John Grisham and Erle Stanley Gardner), David Baldacci practiced law before writing his first novel.",
    "books":"Absolute Power, Split Second"
   },
@@ -599,7 +599,7 @@
    "genre":"Children/Young Adult",
    "sales": 200,
    "language": "English",
-   "photo":"../img/dahl.jpg",
+   "photo":"/writers/img/dahl.jpg",
    "description":"Filled with dark humor and villianous adult characters, Roald Dahl's novels have a way of connecting with the childhood psyche and leaving a lasting impression. Four of Dahl's books appeared in a 2003 BBC survey of the 100 most beloved novels of all time.",
    "books":"James and the Giant Peach, Charlie and the Chocolate Factory"
   },
@@ -609,7 +609,7 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "English",
-   "photo":"../img/mcbain.jpg",
+   "photo":"/writers/img/mcbain.jpg",
    "description":"Ed McBain was born Salvatore Lombino, and then became Evan Hunter, John Abbott, Curt Cannon, Hunt Collins, Ezra Hannon, and Richard Marsten, to name a few. He shifted genres as seamlessly as he changed names, writing everything from science fiction to children's books to police procedurals. The last of these genres became his calling card.",
    "books":"Blackboard Jungle, King's Ransom"
   },
@@ -619,7 +619,7 @@
    "genre":"Horror",
    "sales": 100,
    "language": "English",
-   "photo":"../img/andrews.jpg",
+   "photo":"/writers/img/andrews.jpg",
    "description":"If you grew up in 1980s America, chances are your mother had a well-worn paperback copy of <em>Flowers in the Attic</em> on the bookshelf. V.C. Andrews wrote <em>Flowers</em>, her first novel, in her mid-40s. She became the undisputed champion of the sibling incest genre.",
    "books":"Flowers in the Attic"
   },
@@ -629,7 +629,7 @@
    "genre":"Children/Young Adult",
    "sales": 100,
    "language": "English",
-   "photo":"../img/hargreaves.jpg",
+   "photo":"/writers/img/hargreaves.jpg",
    "description":"Original an advertising executive, Roger Hargreaves' writing career began when his eight-year-old son asked him what a tickle looks like. He drew a simple orange figure with long, rubbery arms, and named him Mr. Tickle. Other bodily functions and personality traits soon followed (Mr. Sneeze, Mr. Greedy), and Hargreaves became one of the most successful children's authors of all time.",
    "books":"the Mr. Men and Little Miss series"
   },
@@ -639,7 +639,7 @@
    "genre":"Horror",
    "sales": 100,
    "language": "English",
-   "photo":"../img/rice.jpg",
+   "photo":"/writers/img/rice.jpg",
    "description":"Anne Rice's parents orignally named her Howard, believing it would give her an unusual advantage in life, but she changed it to Anne on her first day of school. Rice's vampire stories were unique and influential in how they empahtized with the vampires, instead of the victims.",
    "books":"Interview with the Vampire"
   },
@@ -649,7 +649,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/cook.jpg",
+   "photo":"/writers/img/cook.jpg",
    "description":"Robin Cook graduated from Columbia University medical school and wrote his first novel while stationed aboard a submarine in the U.S. Navy. He has an uncanny knack for turning controversial medicial science issues (e.g., stem cell research) into best-selling thrillers.",
    "books":"Coma, Outbreak"
   },
@@ -659,7 +659,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/smith.jpg",
+   "photo":"/writers/img/smith.jpg",
    "description":"Smith grew up in South Africa and worked as an accountant before finding success as a writer. He later moved to London, but continued to use Africa as the backdrop for most of his historical fiction.",
    "books":"The Dark of the Sun, Gold Mine"
   },
@@ -669,7 +669,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/caldwell.jpg",
+   "photo":"/writers/img/caldwell.jpg",
    "description":"Caldwell found fame in the 1930s, with crtically acclaimed novels about sharecroppers in the American South. One of his books, <em>God's Little Acre</em>, featured strong sexual themes and led to his arrest on obscenity charges. Another work, <em>Tobacco Road</em>, became a part of the cultural lexicon and shorthand for rural Southern poverty.",
    "books":"Tobacco Road, God's Little Acre"
   },
@@ -679,7 +679,7 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "photo":"../img/krantz.jpg",
+   "photo":"/writers/img/krantz.jpg",
    "description":"Judith Krantz worked for many years as a freelance magazine journalist before publishing her first novel at the age of 50. That book reached number one on the <em>New York Times</em> bestseller list, and she never looked back.",
    "books":"Scruples, Princess Daisy"
   },
@@ -689,7 +689,7 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "photo":"../img/hibbert.jpg",
+   "photo":"/writers/img/hibbert.jpg",
    "description":"Eleanor Hibbert had incredible range, writing everything from light romance to murder mysteries to historical dramas. She used a different pen name for each genre and found success with most of them. Hibbert was also prolific and devoted; she typically wrote 5,000 words every day by lunchtime.",
    "books":"Mistress of Mellyn, the Victoria Holt series"
   },
@@ -699,7 +699,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/carroll.jpg",
+   "photo":"/writers/img/carroll.jpg",
    "description":"Lewis Carroll (real name: Charles Dodgson) was a philosopher, mathemetician, deacon, photographer and inventor. And he also wrote stories that have stayed in the cultural consciousness for over 150 years. Carroll's work has shown countless minds the power and beauty of the absurd. Curiouser and curiouser, indeed.",
    "books":"Alice in Wonderland, Through the Looking Glass"
   },
@@ -709,7 +709,7 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "photo":"../img/robins.jpg",
+   "photo":"/writers/img/robins.jpg",
    "description":"Talk about longevity: Denise Robins published her first novel in 1918 and her last in 1985. Writing was a family tradition; her mother, brother and daughter were also successful authors.",
    "books":"The Marriage Bond, Sealed Lips"
   },
@@ -719,7 +719,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "Chinese",
-   "photo":"../img/xueqin.jpg",
+   "photo":"/writers/img/xueqin.jpg",
    "description":"Cao Xueqin was still writing the final draft of his masterpiece, <em>Dream of the Red Chamber</em>, when he died in the late 18th century. The novel is now considered one of the greatest -- if not <em>the</em> greatest -- works in the history of Chinese literature. An entire field of academic study, Redology, is dedicated to analyzing this family epic.",
    "books":"Dream of the Red Chamber"
   },
@@ -729,7 +729,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/fleming.jpg",
+   "photo":"/writers/img/fleming.jpg",
    "description":"There are a handful of writers in this chart who've created characters so famous they transcend the medium itself. Today's man on the street may not know the name Edgar Rice Burroughs or Ian Fleming. But he knows Tarzan, and he knows James Bond.",
    "books":"the James Bond novels, Chitty-Chitty-Bang-Bang"
   },
@@ -739,7 +739,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/hesse.jpg",
+   "photo":"/writers/img/hesse.jpg",
    "description":"Firmly entrenched in the pantheon of all-time great German authors (alongside Goethe and Mann, to name a few), Hermann Hesse was the master of literary psychology and spirituality. He won the Nobel Prize in 1946, and is the only such laureate in this chart.",
    "books":"Siddhartha, Steppenwolf"
   },
@@ -749,7 +749,7 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "English",
-   "photo":"../img/stout.jpg",
+   "photo":"/writers/img/stout.jpg",
    "description":"Rex Stout (yes, that's his real name) reportedly read the Bible twice by the time he was four, won the state spelling bee at 13, invented a banking system for public schools, and served on the board of the American Civil Liberties Union. And then, in his late 40s, he turned to writing detective fiction. He went on to sell more than 100 million books.",
    "books":"the Nero Wolfe books"
   },
@@ -759,7 +759,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "French",
-   "photo":"../img/golon.jpg",
+   "photo":"/writers/img/golon.jpg",
    "description":"Anne Golon is better known to English-speaking readers as Sergeanne Golon. This is because she collaborated with her husband, Serge, on her blockbuster novel, <em>Angelique, Marquise of the Angels</em>, and shared credit on the cover. When British publishers released the English translation, they merged the two names. Golon is still writing the <em>Angelique</em> series, nearly 60 years after the first book appeared.",
    "books":"the Angelique series"
   },
@@ -769,7 +769,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/slaughter.jpg",
+   "photo":"/writers/img/slaughter.jpg",
    "description":"Frank Slaughter graduated from Duke University at 17 and then went to medical school at Johns Hopkins. He began writing fiction while working as a doctor in Florida. He became the Robin Cook of his day, penning fast-paced medical dramas that sold in the millions.",
    "books":"Sangaree, Doctor's Wives"
   },
@@ -779,7 +779,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/burroughs.jpg",
+   "photo":"/writers/img/burroughs.jpg",
    "description":"If one of your characters makes for an instantly recognizable Halloween costume, you're probably in this chart. Burroughs' Tarzan is still spawning movies and bad jungle yodeling more than a hundred years after he wrote the first book. There are many theories as to who invented the 'Tarzan yell,' and how. In his novels, Burroughs simply described it as 'the victory cry of the bull ape.'",
    "books":"the Tarzan series"
   },
@@ -789,7 +789,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/creasey.jpg",
+   "photo":"/writers/img/creasey.jpg",
    "description":"John Creasey wrote more than 600 novels during his career. Most people couldn't even <em>type</em> 600 novels-worth of words, let alone piece those words together into an enduring series of crime thrillers.",
    "books":"The Commander George Gideon series, the Baron series"
   },
@@ -799,7 +799,7 @@
    "genre":"Literature",
    "sales": 100,
    "language": "English",
-   "photo":"../img/michener.jpg",
+   "photo":"/writers/img/michener.jpg",
    "description":"James Michener worked as an English teacher until World War II, when he served as a Navy lieutenant in the South Pacific. The experience changed his life. His first novel, <em>Tales of the South Pacific</em>, won the Pulitzer Prize and became the basis for the Broadway musical, <em>South Pacific</em>. He ended his writing career as the undisputed king of 'geographic' sagas (e.g., <em>Alaska, Texas, Chesapeake</em>).",
    "books":"Tales of the South Pacific, Texas"
   },
@@ -809,7 +809,7 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "Japanese",
-   "photo":"../img/uchida.jpg",
+   "photo":"/writers/img/uchida.jpg",
    "description":"An inspiration to late bloomers everywhere, Yasuo Uchida self-published his first novel when he was in his mid-40s. He has since written more than 100 murder mysteries and sold more than 100 million books.",
    "books":"The Togakushi Legend Murders"
   },
@@ -819,7 +819,7 @@
    "genre":"Mystery",
    "sales": 100,
    "language": "Japanese",
-   "photo":"../img/morimura.png",
+   "photo":"/writers/img/morimura.png",
    "description":"Seiichi Morimura rose to fame with <em>The Devil's Gluttony</em>, a novel about a secret Japanese Army unit that killed more than 3000 prisoners in medical experiments during the Second Sino-Japanese War.",
    "books":"The Devil's Gluttony"
   },
@@ -829,7 +829,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/clark.jpg",
+   "photo":"/writers/img/clark.jpg",
    "description":"Mary Higgins Clark is the antithesis of the overnight successes in this chart; she wrote for six years and faced more than 40 rejections before her first short story was published in 1956. She has since earned title, 'Queen of Suspense,' for her taut thrillers with strong female leads.",
    "books":"Where are the Children? Before I Say Goodbye"
   },
@@ -839,7 +839,7 @@
    "genre":"Romance",
    "sales": 100,
    "language": "English",
-   "photo":"../img/jordan.jpg",
+   "photo":"/writers/img/jordan.jpg",
    "description":"Penny Jordan worked as a bank secretary until the late 1970s, when she entered a romance writing contest and gained the attention of a literary agent. She went on to write more than 200 romance novels. Jordan once said that sex scenes were the hardest parts to write in each of her stories.",
    "books":"A Perfect Family; To Love, Honor and Betray"
   },
@@ -849,7 +849,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/cornwell.jpg",
+   "photo":"/writers/img/cornwell.jpg",
    "description":"Patricia Cornwell worked in a medical examiner's office for six years before she published her first novel, <em>Postmortem</em>. The book was one of the first to put forensic science in the forefront of a story, and it became a huge influence on all of the <em>CSI's</em> that followed. For years, Cornwell has theorized that renowned British painter Walter Sickert was the man behind the Jack the Ripper murders. At one point, she bought a Sickert painting and cut up the canvas in atttempt to find clues.",
    "books":"Postmortem, Body of Evidence"
   },
@@ -859,7 +859,7 @@
    "genre":"Thriller",
    "sales": 100,
    "language": "English",
-   "photo":"../img/clancy.jpg",
+   "photo":"/writers/img/clancy.jpg",
    "description":"The king of the military techno-thriller, Tom Clancy's career took off after Ronald Reagan called <em>The Hunt for Red October</em> 'his kind of yarn.' Clancy went on to hit the bestseller list 17 times. He also designed video games and co-owned the Baltimore Orioles.",
    "books":"The Hunt for Red October, Patriot Games"
   }

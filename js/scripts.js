@@ -23,9 +23,12 @@ var svg = d3.select("#chart")
     .attr("transform", "translate(50,20)");//move the chart 100 to the left and 20 down within the canvas//
 
 //Make the legend canvas
-var legend = d3.select("#legend").append("svg")
-    .attr("width", 1260)
-    .attr("height", 200)
+var legend = d3.select("#legend")
+    .append("div")
+    .classed("svg-container", true) 
+    .append("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 850 100")
     .attr("class", "circle-legend")
     //.style("background", "#dddddd")
 
@@ -77,7 +80,7 @@ var tooltip = d3.select("body").append("div")
 
 
 //Build the chart
-d3.json("../data/authors.json", function(error, root) {
+d3.json("/writers/data/authors.json", function(error, root) {
   if (error) throw error;
 
 var node = svg.datum(root).selectAll(".node")
@@ -131,16 +134,16 @@ node.append("circle")
 
 //Replace the project intro text in the right-hand div with the author bios when user clicks on a bubble//
       .on("click", function(d){
-            if (d.description !== undefined && window.innerWidth >= 999) {
+            if (d.description !== undefined && window.innerWidth > 1025) {
        
               d3.select("#caveat")
-             .style("opacity", 0)
+             .style("display", "none")
           tooltip.transition()
           .delay(200)
           .attr("class", "col-sm-12 col-md-6 biography")
           .style("display","block")
           .style("left", "50%")
-          .style("bottom", "40%")
+          .style("top", "10%")
   
           tooltip.html("<h3><span>" + d.first + " " + d.last + "</span></h3>"
                       + salesInfo(d) + "</br></br>"
@@ -150,14 +153,17 @@ node.append("circle")
                 .attr("class", "description")
             
              console.log("desktop detected!")
-            }else if (d.description !== undefined && window.innerWidth < 999) {
+            }else if (d.description !== undefined && window.innerWidth <= 1024) {
                  tooltip.transition()
                  .delay(200)
                  .attr("id", "selected-bubble")
                  .style("display","block")
-                 .style("left", "2%")
-                 .style("top", (d3.event.pageY) + "px")
+                 .style("left", "5%")
+                 .style("top", "5%")
                  .style("background", "white")
+                 .style("padding-bottom", "2%")
+                 .style("max-width", "90%")
+                 .style("box-shadow", "2px 2px 2px #eee")
   
           
           tooltip.html("<span id='close-button'>✖</span>" + "<h3><span>" + d.first + " " + d.last + "</span></h3>"
@@ -187,7 +193,7 @@ node.append("circle")
     //Remove author bio on mouseleave//
       .on("mouseleave", function(d){
             d3.select("#caveat")
-           .style("opacity", 1)
+           .style("display", "block")
          tooltip.transition().style("display","none")
       })
   

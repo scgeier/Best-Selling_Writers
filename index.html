@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 <html>
     <head>
         <title>Best-Selling Authors</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.css" />
         <link rel="stylesheet" type="text/css" href="css/styles.css"/>
     </head>
@@ -10,21 +12,21 @@
     
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-12 col-md-6" id="chart"></div>
-    
+        <div class="col-xs-12 col-md-6" id="chart"></div>
+  
       
-    <div class="col-sm-12 col-md-6" id="content"><h2>The Best-Selling Fiction Authors<span id="headline-break"></br></span> of All Time</h2>
+    <div class="col-xs-12 col-md-6" id="content"><h2>The Best-Selling Fiction Authors<span id="headline-break"></br></span> of All Time</h2>
     <p class="content-text">This chart shows every known fiction writer in history with estimated sales at least 100 million books. The radius of each circle is a function of the sales. Click on the bubbles to learn more. </br></br><span id="caveat">A few caveats: I pulled this data primarily from a <a href="https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors" target="_blank">wikipedia</a> page on the topic, as part of a D3 visualization project in my advanced interactive multimedia class at UNC. I checked the sources whenever possible, but book sales are <a href="http://asklib.hcl.harvard.edu/faq/81944" target="_blank">notoriously difficult </a> to estimate. Several authors are likely missing from the chart because their publishers have not publicly released their sales figures. Other writers defy genres, and that's part of their mass appeal. Should Lewis Carroll, for example, be categorized as Children/Young Adult, or "proper" Literature? Since the answer is "both," I chose the genre based on which shelves you'd probably find the books at the local bookstore.</span></p>
     </div>
-      </div>
+   </div>
 
-<div class="row">
+   <div class="row">
     <div class="col-xs-12" id="legend"></div>
+ </div>  
 </div>
- </div>
 
     
         <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-        <script src="js/scripts.js"></script>
+        <script src="/writers/js/scripts.js"></script>
     </body>
 </html>

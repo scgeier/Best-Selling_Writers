@@ -66,13 +66,46 @@ img {
 @media screen and (max-width:1023px){
   #legend{
     position:absolute;
-    top:75%;
   }
+  
   #content{
     margin-top:10%;
   }
+  
+  #content h2{
+    font-size: 1.5em;
+  }
+  
+  .content-text{
+    font-size:1em;
+  }
+  
   #headline-break{
     display:none;
+  }
+}
+
+@media screen and (min-width:320px) and (max-width:374px){
+  #legend{
+    top: 34%;
+  }
+}
+
+@media screen and (min-width:375px) and (max-width:413px){
+  #legend{
+    top: 37%;
+  }
+}
+
+@media screen and (min-width:414px) and (max-width:767px){
+  #legend{
+    top: 47%;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:990px){
+  #legend{
+    top: 70%;
   }
 }
 
